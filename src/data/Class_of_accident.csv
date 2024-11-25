@@ -1,0 +1,1633 @@
+id_class_of_accident,class_of_accident,possible_class
+62328,Choque,1
+62330,Choque,7
+62336,Choque,No mantener distancia de seguridad
+62726,Choque,Transitar sin los dispositivos luminosos de detencion
+62727,Choque,Adelantar invadiendo caril de sentido contrario
+63538,Choque,Adelantar invadiendo caril de sentido contrario
+63539,Choque,4
+63540,Choque,Impericia en el manejo
+66749,Choque,Superficie húmeda
+66750,Choque,7
+66751,Choque,1
+66752,Volcamiento,2
+66753,Choque,7
+66754,Choque,3
+66755,Choque,7
+66756,Choque,1
+66757,Choque,7
+66759,Choque,0
+66760,Choque,Transitar sin los dispositivos luminosos de detencion
+66761,Salida de la vía sin volcarse,Girar bruscamente
+67946,Choque,0
+67949,Salida de la vía sin volcarse,1
+67950,Choque,Remolque sin precaucion
+68342,Salida de la vía sin volcarse,0
+68343,Choque,Falta de prevencion ante animales en la via
+68345,Choque,Transitar en contra via
+68353,Choque,1
+68356,Choque,3
+68358,Choque,1
+70772,Choque,3
+71569,Choque,5
+71570,Choque,Adelantar invadiendo caril de sentido contrario
+71571,Choque,No mantener distancia de seguridad
+74373,Volcamiento,Transitar sin los dispositivos luminosos de detencion
+74374,Choque,No mantener distancia de seguridad
+74375,Choque,Adelantar cerrando
+74376,Choque,Falta de prevencion ante animales en la via
+74377,Choque,No mantener distancia de seguridad
+75584,Salida de la vía sin volcarse,Defectos fisicos y psiquicos
+75586,Salida de la vía sin volcarse,7
+75589,Caída de carga,0
+75979,Atropello,6
+75980,Choque,0
+75982,Volcamiento,1
+75984,Choque,7
+75986,Choque,Transitar sin los dispositivos luminosos de detencion
+75987,Choque,1
+75988,Salida de la vía sin volcarse,Defectos fisicos y psiquicos
+75989,Salida de la vía sin volcarse,1
+75990,Choque,7
+76391,Choque,1
+76398,Choque,0
+76793,Choque,Superficie húmeda
+77588,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+77589,Choque,"Falta de precaucion por niebla, lluvia o humo"
+77590,Choque,Superficie húmeda
+77591,Choque,0
+77592,Choque,Adelantar invadiendo caril de sentido contrario
+83998,Volcamiento,7
+83999,Choque,7
+93601,Choque,Adelantar invadiendo caril de sentido contrario
+93602,Volcamiento,Transitar sin luces
+93603,Choque,No mantener distancia de seguridad
+93604,Choque,Girar bruscamente
+94003,Choque,No mantener distancia de seguridad
+94005,Choque,Adelantar invadiendo caril de sentido contrario
+94007,Choque,No esperar prelacion de intersecciones o giros
+94008,Choque,Defectos fisicos y psiquicos
+95973,Volcamiento,2
+95974,Volcamiento,3
+95975,Choque,5
+95976,Choque,7
+95977,Choque,3
+95978,Choque,0
+95979,Choque,0
+95980,Salida de la vía sin volcarse,7
+95981,Choque,0
+95982,Salida de la vía sin volcarse,1
+95983,Choque,0
+95984,Volcamiento,Defectos fisicos y psiquicos
+95985,Choque,7
+95986,Choque,0
+95987,Choque,Adelantar en curva o en pendientes
+95988,Choque,0
+95989,Choque,7
+95990,Volcamiento,0
+95991,Choque,0
+95992,Choque,0
+95993,Salida de la vía sin volcarse,3
+95999,Salida de la vía sin volcarse,1
+96000,Caída ocupante,Transitar sin los dispositivos luminosos de detencion
+96001,Salida de la vía sin volcarse,Aprovisionamiento indebido
+96002,Salida de la vía sin volcarse,Superficie húmeda
+96007,Choque,Subirse al anden o vias peatonales
+96008,Choque,Adelantar invadiendo caril de sentido contrario
+96015,Choque,Adelantar en curva o en pendientes
+96016,Volcamiento,Defectos fisicos y psiquicos
+96024,Volcamiento,2
+96025,Choque,0
+96031,Choque,1
+96044,Choque,1
+96053,Choque,No mantener distancia de seguridad
+96054,Volcamiento,7
+96055,Volcamiento,1
+96234,Volcamiento,2
+96235,Salida de la vía sin volcarse,Defectos fisicos y psiquicos
+96238,Choque,3
+96241,Choque,Dejar obstaculos en la via
+96242,Choque,7
+96243,Atropello,7
+96244,Volcamiento,2
+96245,Choque,1
+96246,Salida de la vía sin volcarse,1
+96247,Volcamiento,1
+96248,Volcamiento,7
+96249,Choque,7
+96250,Atropello,7
+96251,Choque,7
+96252,Salida de la vía sin volcarse,Superficie húmeda
+96253,Salida de la vía sin volcarse,7
+96254,Volcamiento,Defectos fisicos y psiquicos
+96255,Choque,7
+96264,Salida de la vía sin volcarse,2
+96265,Choque,No mantener distancia de seguridad
+96266,Choque,Transitar sin los dispositivos luminosos de detencion
+96267,Choque,No mantener distancia de seguridad
+96268,Choque,Adelantar en zona prohibida
+96269,Choque,Adelantar invadiendo caril de sentido contrario
+96270,Choque,Adelantar invadiendo caril de sentido contrario
+96271,Choque,5
+96272,Choque,Adelantar invadiendo caril de sentido contrario
+96273,Choque,Adelantar en zona prohibida
+96274,Choque,Adelantar en zona prohibida
+96275,Choque,Embriaguez aparente
+96276,Choque,Exceso en horas de conduccion
+96277,Choque,Frenar bruscamente
+96278,Choque,No mantener distancia de seguridad
+96279,Choque,Fallas en la dirección
+96280,Volcamiento,Fallas en las llantas
+96281,Choque,Adelantar invadiendo caril de sentido contrario
+96282,Choque,Adelantar invadiendo caril de sentido contrario
+96283,Choque,Girar bruscamente
+96284,Choque,No respetar la prelacion
+96285,Choque,Adelantar invadiendo caril de sentido contrario
+96286,Choque,Frenar bruscamente
+96287,Volcamiento,Exceso en horas de conduccion
+96288,Choque,5
+96289,Choque,"Falta de precaucion por niebla, lluvia o humo"
+96290,Choque,5
+96291,Choque,Frenar bruscamente
+96292,Choque,Adelantar invadiendo caril de sentido contrario
+96293,Choque,Superficie húmeda
+96294,Choque,Adelantar invadiendo caril de sentido contrario
+96295,Choque,"Falta de precaucion por niebla, lluvia o humo"
+96296,Choque,Falta de prevencion ante animales en la via
+96297,Choque,Reverso imprudente
+96298,Choque,No mantener distancia de seguridad
+96299,Volcamiento,Fallas en los frenos
+96300,Choque,1
+96301,Atropello,6
+96302,Choque,"Falta de precaucion por niebla, lluvia o humo"
+96303,Choque,Frenar bruscamente
+96304,Choque,No mantener distancia de seguridad
+96305,Choque,No mantener distancia de seguridad
+96306,Choque,2
+96307,Incendio,"Falta de precaucion por niebla, lluvia o humo"
+96308,Choque,"Falta de precaucion por niebla, lluvia o humo"
+96309,Choque,Exceso en horas de conduccion
+96310,Choque,No mantener distancia de seguridad
+96311,Choque,Girar bruscamente
+96312,Choque,No mantener distancia de seguridad
+96313,Choque,Girar bruscamente
+96314,Choque,Frenar bruscamente
+96315,Choque,0
+96316,Choque,0
+96317,Choque,5
+96318,Choque,Salirse de la calzada
+96319,Choque,No mantener distancia de seguridad
+96320,Choque,No mantener distancia de seguridad
+96321,Choque,Impericia en el manejo
+96322,Choque,No mantener distancia de seguridad
+96323,Choque,"Falta de precaucion por niebla, lluvia o humo"
+96324,Choque,Superficie húmeda
+96325,Salida de la vía sin volcarse,Fallas en la dirección
+96326,Choque,Fallas en los frenos
+96327,Choque,Adelantar en curva o en pendientes
+96328,Choque,"Falta de precaucion por niebla, lluvia o humo"
+96445,Choque,0
+96446,Volcamiento,1
+96447,Volcamiento,1
+96448,Volcamiento,7
+96449,Volcamiento,7
+96450,Volcamiento,7
+96451,Choque,1
+96699,Volcamiento,Defectos fisicos y psiquicos
+96700,Salida de la vía sin volcarse,Reverso imprudente
+96701,Choque,Ausencia total o parcial de señales
+96702,Choque,Embriaguez aparente
+96703,Volcamiento,Defectos fisicos y psiquicos
+96704,Volcamiento,Fallas en los frenos
+96705,Volcamiento,1
+96706,Choque,No mantener distancia de seguridad
+96707,Choque,No mantener distancia de seguridad
+96708,Volcamiento,Fallas en los frenos
+96709,Choque,0
+96710,Choque,Adelantar en curva o en pendientes
+96711,Volcamiento,3
+96712,Choque,7
+96713,Choque,Adelantar invadiendo caril de sentido contrario
+96714,Choque,Desobedecer señales o normas de transito
+96715,Volcamiento,Fallas en las puertas
+96716,Atropello,Transitar sin los dispositivos luminosos de detencion
+96717,Choque,0
+96718,Choque,Adelantar invadiendo caril de sentido contrario
+96719,Choque,Frenar bruscamente
+96720,Choque,Impericia en el manejo
+96721,Choque,3
+96722,Volcamiento,2
+96723,Choque,5
+96724,Choque,No mantener distancia de seguridad
+96725,Salida de la vía sin volcarse,Fallas en los frenos
+96726,Volcamiento,8
+96727,Choque,Reverso imprudente
+96728,Caída ocupante,3
+96729,Choque,Falta de prevencion ante animales en la via
+96730,Choque,No mantener distancia de seguridad
+96731,Choque,No mantener distancia de seguridad
+96732,Choque,Girar bruscamente
+96733,Volcamiento,Exceso en horas de conduccion
+96734,Choque,No mantener distancia de seguridad
+96735,Choque,0
+96736,Choque,Adelantar invadiendo caril de sentido contrario
+96737,Choque,2
+96738,Choque,Girar bruscamente
+96739,Choque,0
+96740,Volcamiento,Exceso en horas de conduccion
+96741,Choque,Embriaguez o sustancias alucinogenas
+96742,Choque,Girar bruscamente
+96743,Choque,No mantener distancia de seguridad
+96744,Volcamiento,Fallas en los frenos
+96745,Atropello,0
+96746,Volcamiento,Fallas en los frenos
+96747,Atropello,6
+96748,Atropello,5
+96749,Choque,Impericia en el manejo
+96750,Choque,0
+96751,Choque,No mantener distancia de seguridad
+96752,Choque,No mantener distancia de seguridad
+96753,Choque,No mantener distancia de seguridad
+96754,Choque,No mantener distancia de seguridad
+96755,Choque,No mantener distancia de seguridad
+96756,Volcamiento,7
+96757,Choque,7
+96758,Volcamiento,1
+96759,Choque,3
+96760,Salida de la vía sin volcarse,Reverso imprudente
+96761,Volcamiento,3
+96762,Choque,Fallas en las puertas
+96763,Choque,Adelantar en zona prohibida
+96764,Volcamiento,3
+96765,Choque,Falta de prevencion ante animales en la via
+96766,Volcamiento,1
+96767,Choque,3
+96768,Volcamiento,2
+96769,Choque,1
+96770,Choque,1
+96771,Atropello,1
+96772,Volcamiento,1
+96773,Choque,3
+97056,Choque,7
+97057,Atropello,Desobedecer señales o normas de transito
+97058,Choque,Reverso imprudente
+97059,Choque,No mantener distancia de seguridad
+97060,Choque,No mantener distancia de seguridad
+97061,Choque,Desobedecer señales o normas de transito
+97064,Volcamiento,1
+97065,Choque,0
+97066,Choque,Girar bruscamente
+97067,Volcamiento,Adelantar invadiendo caril de sentido contrario
+97068,Choque,Girar bruscamente
+97069,Volcamiento,0
+97188,Choque,7
+97189,Choque,7
+97190,Choque,1
+97191,Choque,7
+97192,Choque,Exceso en horas de conduccion
+97193,Choque,1
+97194,Salida de la vía sin volcarse,7
+97195,Choque,Reverso imprudente
+97196,Salida de la vía sin volcarse,Transitar sin los dispositivos luminosos de detencion
+97197,Choque,3
+97198,Atropello,6
+97199,Atropello,6
+97200,Atropello,7
+97201,Choque,Superficie húmeda
+97202,Volcamiento,1
+97203,Choque,Adelantar cerrando
+97204,Choque,3
+97205,Choque,Adelantar invadiendo caril de sentido contrario
+97206,Choque,2
+97207,Choque,Aprovisionamiento indebido
+97208,Volcamiento,Superficie húmeda
+97209,Choque,Adelantar en curva o en pendientes
+97210,Volcamiento,Superficie húmeda
+97211,Volcamiento,2
+97212,Choque,Superficie húmeda
+97213,Choque,Aprovisionamiento indebido
+97214,Choque,Superficie húmeda
+97215,Choque,Adelantar en curva o en pendientes
+97216,Choque,Aprovisionamiento indebido
+97217,Choque,2
+97218,Salida de la vía sin volcarse,1
+97219,Choque,7
+97220,Atropello,6
+97221,Choque,Girar bruscamente
+97222,Choque,1
+97223,Choque,2
+97224,Volcamiento,1
+97225,Choque,Remolque sin precaucion
+97226,Volcamiento,1
+97227,Choque,Reverso imprudente
+97228,Salida de la vía sin volcarse,Superficie húmeda
+97229,Choque,7
+97230,Salida de la vía sin volcarse,Superficie húmeda
+97231,Choque,7
+97232,Salida de la vía sin volcarse,Transitar sin luces
+97233,Salida de la vía sin volcarse,Superficie húmeda
+97234,Choque,1
+97235,Salida de la vía sin volcarse,Superficie húmeda
+97236,Volcamiento,2
+97237,Choque,7
+97238,Choque,7
+97239,Volcamiento,7
+97240,Choque,Superficie húmeda
+97241,Choque,7
+97242,Volcamiento,Defectos fisicos y psiquicos
+97243,Volcamiento,Exceso en horas de conduccion
+97244,Salida de la vía sin volcarse,Superficie húmeda
+97245,Choque,7
+97246,Choque,7
+97247,Choque,Superficie húmeda
+97248,Choque,1
+97249,Choque,Superficie húmeda
+97250,Choque,Superficie húmeda
+97251,Choque,7
+97252,Salida de la vía sin volcarse,Superficie húmeda
+97253,Volcamiento,2
+97254,Salida de la vía sin volcarse,2
+97255,Choque,Transitar sin los dispositivos luminosos de detencion
+97256,Choque,Girar bruscamente
+97257,Volcamiento,1
+97258,Salida de la vía sin volcarse,Superficie húmeda
+97259,Salida de la vía sin volcarse,Transitar sin luces
+97260,Salida de la vía sin volcarse,Superficie húmeda
+97261,Volcamiento,Exceso en horas de conduccion
+97262,Volcamiento,Superficie húmeda
+97263,Choque,Aprovisionamiento indebido
+97264,Choque,Superficie húmeda
+97265,Salida de la vía sin volcarse,1
+97266,Choque,No mantener distancia de seguridad
+97267,Salida de la vía sin volcarse,Superficie húmeda
+97268,Choque,7
+97269,Choque,Superficie húmeda
+97270,Volcamiento,Defectos fisicos y psiquicos
+97271,Choque,Adelantar cerrando
+97272,Choque,0
+97273,Choque,Falta de prevencion ante animales en la via
+97274,Choque,7
+97275,Choque,1
+97276,Volcamiento,Falta de prevencion ante animales en la via
+97277,Volcamiento,Falta de prevencion ante animales en la via
+97278,Volcamiento,Transitar sin luces
+97279,Choque,No mantener distancia de seguridad
+97280,Salida de la vía sin volcarse,Exceso en horas de conduccion
+97281,Choque,Falta de prevencion ante animales en la via
+97282,Volcamiento,1
+97283,Salida de la vía sin volcarse,Superficie húmeda
+97284,Choque,Superficie húmeda
+97285,Choque,0
+97286,Choque,Superficie húmeda
+97287,Choque,1
+97288,Choque,Adelantar invadiendo caril de sentido contrario
+97289,Volcamiento,Defectos fisicos y psiquicos
+97290,Salida de la vía sin volcarse,Superficie húmeda
+97291,Volcamiento,2
+97292,Atropello,Falta de prevencion ante animales en la via
+97293,Volcamiento,1
+97294,Salida de la vía sin volcarse,1
+97295,Salida de la vía sin volcarse,1
+97296,Choque,1
+97297,Salida de la vía sin volcarse,1
+97298,Choque,1
+97299,Salida de la vía sin volcarse,Falta de prevencion ante animales en la via
+97300,Salida de la vía sin volcarse,1
+97301,Atropello,3
+97302,Salida de la vía sin volcarse,0
+97303,Volcamiento,7
+97304,Choque,1
+97305,Choque,1
+97306,Choque,1
+97307,Choque,1
+97308,Volcamiento,1
+97309,Choque,1
+97310,Volcamiento,2
+97311,Volcamiento,1
+97312,Choque,Transitar sin los dispositivos luminosos de detencion
+97313,Choque,Adelantar en curva o en pendientes
+97314,Choque,No mantener distancia de seguridad
+97315,Volcamiento,Transitar sin los dispositivos luminosos de detencion
+97316,Salida de la vía sin volcarse,1
+97317,Salida de la vía sin volcarse,1
+97318,Choque,Adelantar invadiendo caril de sentido contrario
+97319,Choque,Superficie húmeda
+97320,Choque,7
+97321,Choque,Transitar sin los dispositivos luminosos de detencion
+97322,Volcamiento,Transitar sin los dispositivos luminosos de detencion
+97323,Choque,7
+97324,Choque,Transitar sin los dispositivos luminosos de detencion
+97325,Choque,Defectos fisicos y psiquicos
+97326,Choque,No mantener distancia de seguridad
+97327,Choque,0
+97328,Choque,1
+97533,Choque,2
+97475,Volcamiento,No mantener distancia de seguridad
+97476,Choque,Transitar sin los dispositivos luminosos de detencion
+97477,Volcamiento,0
+97478,Choque,Adelantar invadiendo caril de sentido contrario
+97479,Atropello,6
+97480,Choque,Adelantar invadiendo caril de sentido contrario
+97481,Choque,Adelantar invadiendo caril de sentido contrario
+97482,Choque,No mantener distancia de seguridad
+97483,Choque,Adelantar cerrando
+97484,Choque,Adelantar invadiendo caril de sentido contrario
+97485,Choque,Girar bruscamente
+97486,Salida de la vía sin volcarse,Frenar bruscamente
+97487,Choque,No mantener distancia de seguridad
+97488,Choque,Defectos fisicos y psiquicos
+97489,Choque,Salirse de la calzada
+97490,Choque,Poner en marcha un vehiculo sin precauciones
+97491,Choque,0
+97492,Atropello,Descender o subir del vehículo en marcha
+97493,Choque,Transitar sin los dispositivos luminosos de detencion
+97494,Choque,Salirse de la calzada
+97495,Choque,Girar bruscamente
+97496,Choque,Fallas en las llantas
+97497,Choque,No mantener distancia de seguridad
+97498,Choque,Superficie húmeda
+97499,Volcamiento,0
+97500,Choque,Frenar bruscamente
+97501,Volcamiento,0
+97502,Volcamiento,Defectos fisicos y psiquicos
+97503,Choque,Embriaguez aparente
+97504,Choque,Frenar bruscamente
+97505,Choque,0
+97506,Volcamiento,Adelantar cerrando
+97507,Choque,0
+97508,Volcamiento,Adelantar cerrando
+97509,Choque,Adelantar cerrando
+97510,Choque,Falta de prevencion ante animales en la via
+97511,Choque,No mantener distancia de seguridad
+97512,Choque,Transitar sin los dispositivos luminosos de detencion
+97513,Choque,Embriaguez aparente
+97514,Choque,Exceso en horas de conduccion
+97515,Choque,0
+97516,Choque,Embriaguez aparente
+97517,Choque,Reverso imprudente
+97518,Salida de la vía sin volcarse,2
+97519,Choque,Adelantar invadiendo caril de sentido contrario
+97520,Choque,Fallas en los frenos
+97521,Choque,0
+97522,Volcamiento,2
+97523,Choque,No mantener distancia de seguridad
+97524,Choque,Embriaguez aparente
+97525,Choque,0
+97526,Salida de la vía sin volcarse,Defectos fisicos y psiquicos
+97527,Choque,Adelantar invadiendo caril de sentido contrario
+97528,Choque,No mantener distancia de seguridad
+97529,Choque,Adelantar invadiendo caril de sentido contrario
+97530,Choque,Transitar sin los dispositivos luminosos de detencion
+97531,Choque,No mantener distancia de seguridad
+97532,Choque,No mantener distancia de seguridad
+97534,Choque,No mantener distancia de seguridad
+97535,Salida de la vía sin volcarse,Transitar sin los dispositivos luminosos de detencion
+97536,Caída de piedra,10
+97537,Choque,Adelantar invadiendo caril de sentido contrario
+97538,Volcamiento,0
+97539,Choque,5
+97540,Choque,Adelantar en curva o en pendientes
+97541,Volcamiento,0
+97542,Choque,No mantener distancia de seguridad
+97626,Choque,7
+97627,Atropello,Reverso imprudente
+97628,Volcamiento,1
+97629,Atropello,6
+97630,Choque,3
+97631,Choque,Superficie húmeda
+97632,Choque,1
+97633,Choque,Superficie húmeda
+97634,Choque,Remolque sin precaucion
+97635,Choque,1
+97636,Choque,1
+97637,Choque,1
+97638,Choque,1
+97639,Volcamiento,1
+97640,Salida de la vía sin volcarse,1
+97641,Choque,Adelantar en zona prohibida
+97642,Choque,7
+97643,Choque,Adelantar en curva o en pendientes
+97955,Choque,Girar bruscamente
+97956,Choque,No mantener distancia de seguridad
+97957,Choque,5
+97958,Choque,No mantener distancia de seguridad
+97959,Choque,Girar bruscamente
+97960,Choque,No respetar la prelacion
+97961,Volcamiento,Salirse de la calzada
+97962,Atropello,6
+97963,Choque,Falta de señales en vehiculo varado
+97964,Choque,No respetar la prelacion
+97965,Choque,Reverso imprudente
+97966,Choque,No mantener distancia de seguridad
+97967,Choque,Girar bruscamente
+97968,Choque,Girar bruscamente
+97969,Choque,No mantener distancia de seguridad
+97970,Choque,No esperar prelacion de intersecciones o giros
+97971,Choque,0
+97972,Choque,No mantener distancia de seguridad
+97973,Salida de la vía sin volcarse,Defectos fisicos y psiquicos
+97974,Choque,Girar bruscamente
+97975,Choque,Girar bruscamente
+97976,Choque,7
+101910,Volcamiento,Adelantar en zona prohibida
+101913,Caída de carga,Adelantar invadiendo carril del mismo sentido en zigzag
+101914,Choque,No mantener distancia de seguridad
+101915,Choque,Girar bruscamente
+101916,Choque,1
+101917,Choque,0
+101918,Choque,0
+101919,Choque,Girar bruscamente
+101920,Choque,Adelantar invadiendo caril de sentido contrario
+101922,Volcamiento,0
+101923,Choque,Adelantar invadiendo caril de sentido contrario
+101925,Choque,Exceso en horas de conduccion
+101927,Choque,Girar bruscamente
+101928,Choque,No mantener distancia de seguridad
+101930,Choque,3
+101931,Volcamiento,Fallas en el sistema electrico
+101933,Choque,No mantener distancia de seguridad
+101935,Choque,Adelantar invadiendo caril de sentido contrario
+101937,Choque,Transitar sin los dispositivos luminosos de detencion
+101940,Choque,5
+101941,Volcamiento,Frenar bruscamente
+101943,Choque,0
+101945,Choque,Adelantar invadiendo caril de sentido contrario
+101947,Choque,Adelantar invadiendo caril de sentido contrario
+101948,Choque,Reverso imprudente
+101951,Choque,Salirse de la calzada
+101952,Choque,0
+101954,Choque,Adelantar invadiendo caril de sentido contrario
+101956,Choque,Adelantar en zona prohibida
+106101,Volcamiento,1
+101958,Choque,No mantener distancia de seguridad
+101961,Salida de la vía sin volcarse,Reverso imprudente
+101964,Choque,Reverso imprudente
+101967,Choque,7
+101969,Choque,Adelantar en zona prohibida
+101970,Choque,4
+101971,Salida de la vía sin volcarse,1
+101972,Salida de la vía sin volcarse,No mantener distancia de seguridad
+101974,Choque,Transitar sin los dispositivos luminosos de detencion
+103290,Choque,No mantener distancia de seguridad
+106100,Volcamiento,Reverso imprudente
+103291,Choque,Adelantar invadiendo caril de sentido contrario
+103292,Choque,Fallas en la dirección
+103293,Choque,Superficie húmeda
+103294,Choque,Fallas en las llantas
+103295,Atropello,6
+106095,Volcamiento,1
+106096,Choque,7
+106097,Volcamiento,Reverso imprudente
+106098,Volcamiento,Fallas en los frenos
+106099,Choque,Defectos fisicos y psiquicos
+106102,Choque,Adelantar invadiendo caril de sentido contrario
+106103,Choque,Salirse de la calzada
+106104,Choque,Adelantar invadiendo caril de sentido contrario
+106110,Choque,Adelantar invadiendo caril de sentido contrario
+106495,Choque,No respetar la prelacion
+107701,Choque,0
+108895,Choque,0
+108896,Choque,Transitar en contra via
+108897,Choque,0
+112100,Volcamiento,Transitar sin los dispositivos luminosos de detencion
+112101,Choque,Transitar sin los dispositivos luminosos de detencion
+112102,Choque,3
+112103,Volcamiento,1
+112104,Choque,Falta de prevencion ante animales en la via
+112105,Atropello,Transitar sin los dispositivos luminosos de detencion
+112106,Choque,Transitar sin los dispositivos luminosos de detencion
+112107,Volcamiento,0
+112108,Salida de la vía sin volcarse,1
+112109,Choque,0
+112110,Salida de la vía sin volcarse,Defectos fisicos y psiquicos
+112111,Salida de la vía sin volcarse,Transitar sin luces
+112112,Choque,7
+112113,Choque,1
+112114,Choque,1
+112115,Salida de la vía sin volcarse,7
+112116,Choque,1
+116112,Choque,1
+116500,Volcamiento,1
+116501,Choque,1
+116503,Salida de la vía sin volcarse,1
+116505,Salida de la vía sin volcarse,7
+116506,Volcamiento,1
+116508,Salida de la vía sin volcarse,Transitar sin los dispositivos luminosos de detencion
+116509,Choque,Transitar sin los dispositivos luminosos de detencion
+116511,Salida de la vía sin volcarse,Transitar sin los dispositivos luminosos de detencion
+120932,Volcamiento,Superficie húmeda
+120933,Choque,No mantener distancia de seguridad
+120934,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+120935,Choque,Adelantar invadiendo caril de sentido contrario
+120936,Choque,Impericia en el manejo
+120937,Choque,Adelantar invadiendo caril de sentido contrario
+120938,Choque,Reverso imprudente
+121308,Volcamiento,7
+122115,Choque,Adelantar invadiendo caril de sentido contrario
+122116,Choque,Falta de prevencion ante animales en la via
+122117,Choque,2
+122121,Choque,No esperar prelacion de intersecciones o giros
+122124,Atropello,Embriaguez aparente
+122125,Choque,Subirse al anden o vias peatonales
+122126,Choque,Exceso en horas de conduccion
+122521,Volcamiento,Adelantar invadiendo caril de sentido contrario
+122527,Choque,Adelantar invadiendo caril de sentido contrario
+122916,Choque,Adelantar invadiendo caril de sentido contrario
+135323,Choque,No mantener distancia de seguridad
+135324,Choque,Girar bruscamente
+135325,Choque,Transitar sin los dispositivos luminosos de detencion
+135326,Salida de la vía sin volcarse,Transitar sin los dispositivos luminosos de detencion
+135327,Salida de la vía sin volcarse,Transitar sin los dispositivos luminosos de detencion
+135328,Salida de la vía sin volcarse,2
+136117,Salida de la vía sin volcarse,Transitar sin luces
+138138,Choque,0
+138140,Choque,0
+138536,Choque,0
+139336,Choque,Adelantar cerrando
+139337,Choque,Falta de señales en vehiculo varado
+139338,Salida de la vía sin volcarse,Transitar sin los dispositivos luminosos de detencion
+139339,Volcamiento,Salirse de la calzada
+139340,Choque,Girar bruscamente
+139747,Choque,Adelantar invadiendo caril de sentido contrario
+139748,Volcamiento,Fallas en los frenos
+139749,Choque,No mantener distancia de seguridad
+139750,Choque,No mantener distancia de seguridad
+139751,Choque,No mantener distancia de seguridad
+139752,Choque,Impericia en el manejo
+139753,Choque,0
+140141,Choque,Adelantar en zona prohibida
+140142,Choque,No mantener distancia de seguridad
+140143,Choque,Impericia en el manejo
+140144,Choque,Adelantar en zona prohibida
+140145,Choque,Transitar sin luces
+140146,Choque,Salirse de la calzada
+140147,Choque,No mantener distancia de seguridad
+140948,Choque,Adelantar cerrando
+140949,Choque,3
+140950,Choque,Adelantar invadiendo caril de sentido contrario
+140951,Choque,Falta de prevencion ante animales en la via
+140952,Volcamiento,Salirse de la calzada
+141348,Salida de la vía sin volcarse,Reverso imprudente
+141349,Choque,Adelantar invadiendo caril de sentido contrario
+141350,Choque,Reverso imprudente
+141351,Choque,Adelantar en zona prohibida
+142551,Choque,Impericia en el manejo
+142552,Choque,No mantener distancia de seguridad
+142553,Choque,5
+142554,Choque,Adelantar invadiendo caril de sentido contrario
+142555,Choque,5
+142556,Choque,No mantener distancia de seguridad
+142557,Choque,Fallas en los frenos
+142558,Choque,Girar bruscamente
+142559,Choque,Adelantar en zona prohibida
+142948,Choque,5
+142949,Choque,Adelantar invadiendo caril de sentido contrario
+142950,Choque,Adelantar en zona prohibida
+142951,Volcamiento,1
+142952,Choque,7
+142953,Choque,Adelantar invadiendo caril de sentido contrario
+142954,Choque,Transitar sin los dispositivos luminosos de detencion
+142955,Choque,Exceso en horas de conduccion
+142956,Volcamiento,Exceso en horas de conduccion
+143348,Choque,Embriaguez aparente
+143349,Choque,Ausencia total o parcial de señales
+143350,Choque,Ausencia total o parcial de señales
+143351,Salida de la vía sin volcarse,1
+143748,Choque,No mantener distancia de seguridad
+143749,Volcamiento,Transitar sin los dispositivos luminosos de detencion
+144548,Atropello,0
+144549,Choque,2
+147749,Choque,0
+147750,Choque,No mantener distancia de seguridad
+148149,Choque,0
+148150,Choque,0
+148151,Choque,0
+148152,Choque,1
+148153,Choque,0
+148154,Volcamiento,7
+148155,Choque,0
+148156,Volcamiento,Defectos fisicos y psiquicos
+148157,Choque,0
+148158,Choque,0
+148159,Choque,Falta de prevencion ante animales en la via
+148160,Choque,2
+148161,Choque,Transitar sin los dispositivos luminosos de detencion
+148162,Salida de la vía sin volcarse,Transitar sin luces
+150149,Choque,3
+150150,Choque,No mantener distancia de seguridad
+150151,Choque,No mantener distancia de seguridad
+150152,Choque,Adelantar invadiendo caril de sentido contrario
+150153,Choque,Superficie húmeda
+150154,Choque,No mantener distancia de seguridad
+150155,Choque,Vehiculo mal estacionado
+151349,Choque,Adelantar invadiendo caril de sentido contrario
+151350,Choque,Frenar bruscamente
+151351,Choque,No mantener distancia de seguridad
+151352,Choque,Defectos fisicos y psiquicos
+151353,Volcamiento,Transitar sin luces
+151354,Choque,Adelantar invadiendo caril de sentido contrario
+151355,Choque,No mantener distancia de seguridad
+151356,Choque,Exceso en horas de conduccion
+151357,Volcamiento,0
+151358,Choque,Adelantar invadiendo caril de sentido contrario
+151359,Salida de la vía sin volcarse,Defectos fisicos y psiquicos
+154951,Choque,Desobedecer señales o normas de transito
+154952,Choque,0
+154953,Salida de la vía sin volcarse,Defectos fisicos y psiquicos
+154954,Choque,Girar bruscamente
+154955,Choque,Girar bruscamente
+154956,Volcamiento,1
+154957,Choque,0
+154958,Volcamiento,0
+154959,Salida de la vía sin volcarse,1
+154961,Choque,No mantener distancia de seguridad
+158549,Choque,0
+158550,Choque,1
+158551,Volcamiento,No mantener distancia de seguridad
+158552,Salida de la vía sin volcarse,Fallas en la dirección
+159355,Choque,Transitar en contra via
+160154,Choque,Adelantar invadiendo caril de sentido contrario
+160155,Choque,Adelantar invadiendo caril de sentido contrario
+160549,Choque,No esperar prelacion de intersecciones o giros
+160550,Choque,No respetar la prelacion
+160986,Choque,No respetar la prelacion
+160989,Salida de la vía sin volcarse,Transitar sin los dispositivos luminosos de detencion
+160993,Choque,0
+160995,Choque,Reverso imprudente
+160997,Choque,No mantener distancia de seguridad
+160999,Volcamiento,Reverso imprudente
+161000,Volcamiento,Reverso imprudente
+161001,Choque,No mantener distancia de seguridad
+166950,Choque,Transitar sin los dispositivos luminosos de detencion
+166951,Choque,"Falta de precaucion por niebla, lluvia o humo"
+166952,Choque,No mantener distancia de seguridad
+166953,Volcamiento,Girar bruscamente
+166954,Choque,Fallas en los frenos
+166956,Choque,Falta de prevencion ante animales en la via
+166957,Choque,"Falta de precaucion por niebla, lluvia o humo"
+166958,Choque,No mantener distancia de seguridad
+171350,Choque,Defectos fisicos y psiquicos
+171351,Salida de la vía sin volcarse,Reverso imprudente
+171352,Choque,Defectos fisicos y psiquicos
+171353,Volcamiento,Defectos fisicos y psiquicos
+171354,Choque,Defectos fisicos y psiquicos
+171355,Choque,0
+171356,Choque,Transitar sin los dispositivos luminosos de detencion
+171750,Choque,Transitar sin los dispositivos luminosos de detencion
+171752,Choque,Transitar sin los dispositivos luminosos de detencion
+171753,Atropello,6
+171755,Choque,Defectos fisicos y psiquicos
+171757,Choque,Defectos fisicos y psiquicos
+171758,Volcamiento,Transitar sin los dispositivos luminosos de detencion
+171759,Choque,Estacionar sin seguridad
+171773,Atropello,6
+172202,Volcamiento,0
+172204,Choque,Transitar en contra via
+172215,Choque,No mantener distancia de seguridad
+172217,Choque,Embriaguez aparente
+172218,Volcamiento,Fallas en los frenos
+172219,Volcamiento,Transitar sin luces
+172562,Choque,Impericia en el manejo
+172564,Choque,Adelantar en zona prohibida
+172961,Choque,No mantener distancia de seguridad
+172962,Choque,No mantener distancia de seguridad
+172963,Choque,Adelantar invadiendo caril de sentido contrario
+176973,Choque,Reverso imprudente
+176968,Choque,7
+176969,Choque,Transitar en contra via
+176970,Choque,0
+176971,Choque,Transitar sin los dispositivos luminosos de detencion
+176972,Caída ocupante,Transitar sin los dispositivos luminosos de detencion
+176974,Choque,0
+176975,Choque,Transitar sin los dispositivos luminosos de detencion
+176976,Volcamiento,Transitar sin los dispositivos luminosos de detencion
+176977,Volcamiento,Defectos fisicos y psiquicos
+176978,Caída de piedra,10
+176979,Volcamiento,Transitar sin los dispositivos luminosos de detencion
+176980,Choque,Desobedecer señales o normas de transito
+177360,Choque,Transitar sin luces
+177361,Choque,"Falta de precaucion por niebla, lluvia o humo"
+177362,Otro,Reverso imprudente
+177364,Choque,No mantener distancia de seguridad
+177366,Choque,No mantener distancia de seguridad
+177367,Choque,No mantener distancia de seguridad
+177385,Choque,Exceso en horas de conduccion
+177386,Choque,Girar bruscamente
+177387,Choque,Salirse de la calzada
+179364,Choque,0
+179365,Choque,1
+179366,Volcamiento,1
+179367,Volcamiento,Fallas en los frenos
+179781,Atropello,6
+179782,Atropello,Falta de prevencion ante animales en la via
+179783,Caída ocupante,Descender o subir del vehículo en marcha
+179784,Choque,Frenar bruscamente
+181760,Choque,1
+185361,Choque,No mantener distancia de seguridad
+185761,Choque,Falta de prevencion ante animales en la via
+185762,Choque,"Falta de precaucion por niebla, lluvia o humo"
+185763,Choque,2
+185764,Choque,Fallas en los frenos
+185765,Choque,Adelantar invadiendo caril de sentido contrario
+185766,Choque,Adelantar en zona prohibida
+185767,Choque,Adelantar invadiendo caril de sentido contrario
+186563,Choque,Embriaguez aparente
+186564,Choque,No esperar prelacion de intersecciones o giros
+186565,Choque,Girar bruscamente
+186566,Choque,Adelantar invadiendo caril de sentido contrario
+187361,Choque,7
+187782,Volcamiento,1
+187783,Choque,Remolque sin precaucion
+187784,Volcamiento,3
+188962,Choque,Estacionar sin seguridad
+188963,Choque,Transitar en contra via
+188964,Choque,Reverso imprudente
+192167,Choque,Superficie húmeda
+192168,Choque,Falta de prevencion ante animales en la via
+192169,Choque,Adelantar invadiendo caril de sentido contrario
+192170,Choque,Exceso en horas de conduccion
+192171,Choque,Defectos fisicos y psiquicos
+192172,Choque,Adelantar cerrando
+192173,Volcamiento,Salirse de la calzada
+192174,Volcamiento,Reverso imprudente
+192175,Volcamiento,Adelantar cerrando
+192176,Choque,Girar bruscamente
+192177,Choque,Girar bruscamente
+192961,Atropello,Viajar colgado o en los estribos
+192962,Volcamiento,Fallas en las llantas
+192966,Salida de la vía sin volcarse,Transitar sin los dispositivos luminosos de detencion
+192967,Choque,Reverso imprudente
+192968,Choque,Vehiculo mal estacionado
+192969,Volcamiento,1
+192970,Choque,1
+192971,Salida de la vía sin volcarse,1
+192972,Choque,Transitar en contra via
+192973,Volcamiento,Fallas en los frenos
+192974,Salida de la vía sin volcarse,2
+193362,Choque,5
+193363,Volcamiento,Superficie húmeda
+193364,Volcamiento,Falta de prevencion ante animales en la via
+193365,Choque,Embriaguez aparente
+193366,Volcamiento,Exceso en horas de conduccion
+193367,Choque,No mantener distancia de seguridad
+193369,Choque,Girar bruscamente
+193370,Choque,Adelantar invadiendo caril de sentido contrario
+193375,Volcamiento,0
+193377,Choque,0
+193762,Choque,Superficie húmeda
+193763,Choque,No mantener distancia de seguridad
+193764,Choque,Reverso imprudente
+193765,Choque,0
+193766,Choque,No mantener distancia de seguridad
+194961,Choque,1
+194962,Choque,Fallas en las llantas
+195761,Choque,0
+195762,Choque,Adelantar invadiendo caril de sentido contrario
+199361,Choque,Fallas en las llantas
+199362,Volcamiento,1
+200563,Choque,Exceso en horas de conduccion
+200567,Volcamiento,Salirse de la calzada
+200962,Caída ocupante,Reverso imprudente
+200963,Choque,Adelantar cerrando
+200964,Choque,Adelantar invadiendo caril de sentido contrario
+200967,Volcamiento,Transitar sin luces
+201361,Choque,Adelantar invadiendo caril de sentido contrario
+201362,Choque,No mantener distancia de seguridad
+201363,Choque,Reverso imprudente
+201364,Salida de la vía sin volcarse,1
+201365,Volcamiento,2
+201367,Choque,Adelantar invadiendo caril de sentido contrario
+201368,Choque,Adelantar invadiendo caril de sentido contrario
+201369,Choque,No mantener distancia de seguridad
+201370,Choque,Transitar sin los dispositivos luminosos de detencion
+201371,Volcamiento,1
+201372,Choque,Transitar sin los dispositivos luminosos de detencion
+201373,Choque,Transitar sin los dispositivos luminosos de detencion
+201374,Choque,2
+201375,Choque,7
+201376,Volcamiento,2
+201377,Choque,1
+201378,Choque,Transitar sin los dispositivos luminosos de detencion
+201379,Choque,Transitar sin los dispositivos luminosos de detencion
+201380,Choque,7
+201381,Salida de la vía sin volcarse,1
+201382,Choque,Reverso imprudente
+210570,Volcamiento,Exceso de velocidad
+212569,Choque,Impericia en el manejo
+214175,Volcamiento,Fallas en las llantas
+214172,Choque,Exceso de velocidad
+214174,Salida de la vía sin volcarse,Otra - Conductor en General
+214202,Choque,Exceso de velocidad
+214569,Choque,Exceso en horas de conduccion
+214571,Choque,Impericia en el manejo
+214573,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+214574,Choque,"Falta de precaucion por niebla, lluvia o humo"
+214575,Choque,Impericia en el manejo
+214576,Choque,Exceso de velocidad
+214581,Choque,Falta de mantenimiento mecanico
+214582,Volcamiento,Impericia en el manejo
+214584,Choque,Salirse de la calzada
+214585,Choque,Adelantar en curva o en pendientes
+214587,Volcamiento,Falta de mantenimiento mecanico
+214589,Choque,Adelantar invadiendo caril de sentido contrario
+214591,Caída de carga,Impericia en el manejo
+214593,Choque,Otra - Conductor en General
+214596,Volcamiento,Impericia en el manejo
+214597,Volcamiento,Exceso de velocidad
+217779,Volcamiento,Exceso en horas de conduccion
+217780,Choque,Impericia en el manejo
+230607,Salida de la vía sin volcarse,Exceso en horas de conduccion
+230604,Atropello,Transitar en contra via
+230605,Atropello,Otras -Del Peatón
+230610,Choque,Exceso en horas de conduccion
+230612,Volcamiento,Embriaguez aparente
+230613,Salida de la vía sin volcarse,"Falta de precaucion por niebla, lluvia o humo"
+230614,Choque,Adelantar invadiendo caril de sentido contrario
+230615,Choque,Otra - Conductor en General
+230616,Volcamiento,Falta de mantenimiento mecanico
+230617,Choque,Impericia en el manejo
+230618,Salida de la vía sin volcarse,Impericia en el manejo
+230619,Volcamiento,Falta de mantenimiento mecanico
+230622,Choque,Superficie húmeda
+230625,Atropello,No mantener distancia de seguridad
+230627,Choque,Falta de mantenimiento mecanico
+241854,Caída de carga,Falta de mantenimiento mecanico
+241855,Choque,Falta de señales en vehiculo varado
+241856,Choque,Exceso de velocidad
+241857,Choque,Adelantar cerrando
+241858,Atropello,Otra - Conductor en General
+241859,Choque,Impericia en el manejo
+242254,Choque,Impericia en el manejo
+242255,Volcamiento,Impericia en el manejo
+242256,Choque,Adelantar invadiendo caril de sentido contrario
+247054,Choque,No respetar la prelacion
+247055,Choque,Poner en marcha un vehiculo sin precauciones
+257467,Choque,Desobedecer señales o normas de transito
+257468,Choque,Falta de señales en vehiculo varado
+257469,Choque,Transitar por vias prohibidas
+257470,Choque,Falta de mantenimiento mecanico
+257471,Atropello,Falta de señales en vehiculo varado
+257472,Choque,Superficie húmeda
+257473,Choque,Exceso de velocidad
+257474,Choque,Falta de mantenimiento mecanico
+259875,Choque,Fallas en las llantas
+259876,Choque,Adelantar invadiendo caril de sentido contrario
+259877,Choque,Transitar en contra via
+259878,Choque,Adelantar invadiendo caril de sentido contrario
+259879,Choque,Falta de prevencion ante animales en la via
+259880,Choque,Otra - Conductor en General
+259881,Choque,Otra - Conductor en General
+261472,Volcamiento,Otra - Del Vehiculo
+261473,Choque,Frenar bruscamente
+261474,Choque,Falta de prevencion ante animales en la via
+261475,Choque,Adelantar invadiendo caril de sentido contrario
+261476,Choque,Otra - Conductor en General
+261867,Choque,Adelantar invadiendo caril de sentido contrario
+261868,Choque,Otra - Del Vehiculo
+261869,Salida de la vía sin volcarse,Otra - Conductor en General
+261870,Volcamiento,Otra - Del Vehiculo
+263071,Choque,Impericia en el manejo
+263072,Choque,Adelantar invadiendo caril de sentido contrario
+263073,Choque,Falta de prevencion ante animales en la via
+263074,Choque,Falta de señales en vehiculo varado
+263075,Volcamiento,Impericia en el manejo
+263076,Choque,Impericia en el manejo
+263077,Choque,Impericia en el manejo
+263078,Choque,Adelantar invadiendo caril de sentido contrario
+263079,Salida de la vía sin volcarse,Impericia en el manejo
+263080,Choque,Exceso en horas de conduccion
+263081,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+263082,Volcamiento,Impericia en el manejo
+263083,Choque,Falta de mantenimiento mecanico
+263467,Choque,Girar bruscamente
+263468,Salida de la vía sin volcarse,Exceso de velocidad
+263469,Choque,Adelantar invadiendo caril de sentido contrario
+267867,Choque,Otra - Conductor en General
+269090,Atropello,Cruzar sin observar
+269093,Choque,Cruzar sin observar
+269094,Choque,Transitar distante de la acera u orilla de la calzada
+269095,Choque,Cruzar sin observar
+269096,Choque,No mantener distancia de seguridad
+269097,Choque,No hacer uso de señales reflectivas o luminosas
+271887,Choque,Exceso de velocidad
+271888,Choque,Impericia en el manejo
+271889,Volcamiento,Fallas en los frenos
+271890,Choque,Impericia en el manejo
+271891,Choque,Impericia en el manejo
+271892,Choque,Desobedecer señales o normas de transito
+271893,Volcamiento,Falta de mantenimiento mecanico
+271894,Choque,Impericia en el manejo
+271895,Choque,Impericia en el manejo
+271896,Choque,Exceso de velocidad
+271897,Salida de la vía sin volcarse,Embriaguez aparente
+271898,Choque,Exceso de velocidad
+271899,Choque,Exceso de velocidad
+271900,Salida de la vía sin volcarse,Fallas en la dirección
+271901,Salida de la vía sin volcarse,Exceso de velocidad
+271902,Choque,Exceso de velocidad
+271903,Volcamiento,Exceso de velocidad
+271904,Atropello,Recoger o dejar pasajeros sobre la calzada
+272269,Choque,Exceso en horas de conduccion
+272270,Choque,Impericia en el manejo
+272272,Volcamiento,Embriaguez aparente
+272273,Salida de la vía sin volcarse,Falta de mantenimiento mecanico
+272276,Volcamiento,Falta de mantenimiento mecanico
+272278,Salida de la vía sin volcarse,Falta de mantenimiento mecanico
+272280,Choque,Impericia en el manejo
+272284,Atropello,Dejar o movilizar semovientes en la vía
+272669,Salida de la vía sin volcarse,Embriaguez aparente
+272671,Choque,Impericia en el manejo
+272674,Choque,Superficie húmeda
+281868,Choque,No mantener distancia de seguridad
+282280,Volcamiento,Impericia en el manejo
+282667,Salida de la vía sin volcarse,Exceso de velocidad
+282668,Choque,Exceso de velocidad
+284667,Choque,No hacer uso de señales reflectivas o luminosas
+284668,Choque,Otra - Conductor en General
+284669,Volcamiento,Impericia en el manejo
+284670,Volcamiento,Otra - Del Vehiculo
+284671,Choque,Otra - Conductor en General
+284672,Choque,Exceso de velocidad
+285487,Choque,Adelantar invadiendo caril de sentido contrario
+285489,Otro,Impericia en el manejo
+285490,Choque,Adelantar por la derecha
+285491,Choque,No mantener distancia de seguridad
+286277,Choque,Desobedecer señales o normas de transito
+286278,Volcamiento,Exceso en horas de conduccion
+286279,Choque,Adelantar cerrando
+286667,Choque,No mantener distancia de seguridad
+286668,Choque,No mantener distancia de seguridad
+286671,Choque,Otra - Conductor en General
+286672,Choque,"Falta de precaucion por niebla, lluvia o humo"
+286673,Choque,Girar bruscamente
+286674,Choque,Otra - Conductor en General
+287067,Choque,No mantener distancia de seguridad
+287068,Choque,Otra - Conductor en General
+287069,Choque,Otra - Conductor en General
+287070,Choque,No mantener distancia de seguridad
+289070,Volcamiento,Impericia en el manejo
+289071,Volcamiento,Impericia en el manejo
+289072,Choque,Poner en marcha un vehiculo sin precauciones
+295067,Choque,Otra - Conductor en General
+295068,Choque,No esperar prelacion de intersecciones o giros
+295069,Choque,No esperar prelacion de intersecciones o giros
+296267,Choque,"Falta de precaucion por niebla, lluvia o humo"
+296268,Choque,Impericia en el manejo
+296269,Choque,Impericia en el manejo
+296270,Atropello,Transitar entre vehiculos
+296271,Salida de la vía sin volcarse,Exceso en horas de conduccion
+296272,Choque,No mantener distancia de seguridad
+296273,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+296274,Salida de la vía sin volcarse,Exceso en horas de conduccion
+296275,Salida de la vía sin volcarse,Impericia en el manejo
+296276,Choque,Exceso en horas de conduccion
+296277,Volcamiento,Impericia en el manejo
+296278,Choque,Impericia en el manejo
+296279,Choque,Exceso en horas de conduccion
+299878,Incendio,Fallas en los frenos
+302279,Choque,Impericia en el manejo
+301470,Choque,Otra - Conductor en General
+301471,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+302278,Salida de la vía sin volcarse,Exceso en horas de conduccion
+305870,Choque,Adelantar invadiendo caril de sentido contrario
+305872,Volcamiento,Superficie húmeda
+305873,Choque,Impericia en el manejo
+305874,Choque,No mantener distancia de seguridad
+305875,Choque,Fallas en las llantas
+305876,Choque,Otra - Conductor en General
+306267,Salida de la vía sin volcarse,Impericia en el manejo
+306667,Choque,Impericia en el manejo
+306668,Choque,Obstaculos en la vía
+306669,Volcamiento,Otra - Del Vehiculo
+306670,Choque,Otra - Conductor en General
+306671,Choque,Impericia en el manejo
+307067,Choque,Desobedecer señales o normas de transito
+307068,Choque,Adelantar invadiendo caril de sentido contrario
+307069,Volcamiento,Impericia en el manejo
+307469,Choque,"Falta de precaucion por niebla, lluvia o humo"
+307470,Choque,Adelantar en curva o en pendientes
+307471,Choque,Dejar o movilizar semovientes en la vía
+307873,Choque,Otra - Conductor en General
+311073,Choque,No mantener distancia de seguridad
+311074,Choque,Fallas en los frenos
+311473,Choque,Impericia en el manejo
+311474,Choque,Reverso imprudente
+311475,Choque,"Falta de precaucion por niebla, lluvia o humo"
+311476,Choque,"Falta de precaucion por niebla, lluvia o humo"
+312673,Choque,Otra - Conductor en General
+313877,Choque,"Falta de precaucion por niebla, lluvia o humo"
+313880,Volcamiento,Impericia en el manejo
+313881,Choque,Impericia en el manejo
+313882,Choque,No mantener distancia de seguridad
+313883,Volcamiento,Impericia en el manejo
+313884,Choque,Desobedecer señales o normas de transito
+313885,Choque,Adelantar invadiendo caril de sentido contrario
+313886,Atropello,Cruzar sin observar
+313887,Choque,No mantener distancia de seguridad
+313888,Salida de la vía sin volcarse,"Falta de precaucion por niebla, lluvia o humo"
+314673,Choque,Impericia en el manejo
+314674,Choque,Transitar distante de la acera u orilla de la calzada
+314675,Choque,Otra - Conductor en General
+314676,Choque,No mantener distancia de seguridad
+314677,Choque,Exceso en horas de conduccion
+315083,No determinado,Otra - Conductor en General
+315084,Volcamiento,Salirse de la calzada
+317877,Atropello,Otra - Conductor en General
+321073,Choque,Exceso de velocidad
+321074,Choque,Exceso en horas de conduccion
+321075,Volcamiento,Exceso de velocidad
+321076,Otro,Otras -Del Peatón
+321873,Choque,Adelantar invadiendo caril de sentido contrario
+333494,Choque,Otra - Conductor en General
+333495,Choque,Fallas en las llantas
+336683,Volcamiento,Impericia en el manejo
+337084,Choque,Impericia en el manejo
+337484,Volcamiento,Exceso de velocidad
+340694,Volcamiento,Impericia en el manejo
+340695,Salida de la vía sin volcarse,Fallas en los frenos
+340696,Choque,"Falta de precaucion por niebla, lluvia o humo"
+340697,Choque,"Falta de precaucion por niebla, lluvia o humo"
+340698,Choque,Impericia en el manejo
+340701,Atropello,Transitar por la calzada
+341483,Choque,"Falta de precaucion por niebla, lluvia o humo"
+341484,Choque,Falta de mantenimiento mecanico
+341485,Choque,Adelantar invadiendo caril de sentido contrario
+341486,Volcamiento,Exceso en horas de conduccion
+341487,Choque,Adelantar invadiendo caril de sentido contrario
+341488,Salida de la vía sin volcarse,Exceso de velocidad
+343485,Choque,Desobedecer señales o normas de transito
+352297,Choque,Otra - Conductor en General
+352706,Salida de la vía sin volcarse,Otra - Conductor en General
+352707,Choque,Otra - Conductor en General
+353104,Volcamiento,Exceso de velocidad
+353105,Choque,"Falta de precaucion por niebla, lluvia o humo"
+353106,Choque,"Falta de precaucion por niebla, lluvia o humo"
+353107,Volcamiento,Exceso de velocidad
+353501,Salida de la vía sin volcarse,Exceso de velocidad
+353502,Choque,Exceso de velocidad
+353504,Choque,No esperar prelacion de intersecciones o giros
+353505,Volcamiento,Falta de mantenimiento mecanico
+353506,Choque,No mantener distancia de seguridad
+353508,Salida de la vía sin volcarse,Impericia en el manejo
+353892,Incendio,Falta de mantenimiento mecanico
+353894,Volcamiento,Exceso en horas de conduccion
+355092,Volcamiento,Impericia en el manejo
+355093,Choque,Otra - Conductor en General
+355094,Volcamiento,Embriaguez aparente
+355095,Choque,No mantener distancia de seguridad
+355096,Choque,Impericia en el manejo
+355492,Choque,No mantener distancia de seguridad
+363492,Choque,No mantener distancia de seguridad
+373492,Choque,Girar bruscamente
+379111,Choque,Salirse de la calzada
+379112,Volcamiento,Exceso de velocidad
+379115,Choque,Impericia en el manejo
+379517,Volcamiento,Superficie húmeda
+381492,Choque,Exceso de velocidad
+381493,Choque,Falta de señales en vehiculo varado
+381494,Choque,Otra - Conductor en General
+381495,Choque,Embriaguez o sustancias alucinogenas
+381506,Choque,Impericia en el manejo
+381892,Choque,Otra - Conductor en General
+381893,Volcamiento,Fallas en las llantas
+382292,Choque,Embriaguez aparente
+382714,Volcamiento,Impericia en el manejo
+384294,Choque,Exceso en horas de conduccion
+384295,Choque,Girar bruscamente
+384296,Atropello,Falta de prevencion ante animales en la via
+384302,Choque,No esperar prelacion de intersecciones o giros
+384694,Salida de la vía sin volcarse,Impericia en el manejo
+384695,Choque,Exceso en horas de conduccion
+384696,Choque,"Falta de precaucion por niebla, lluvia o humo"
+384697,Choque,Girar bruscamente
+384698,Salida de la vía sin volcarse,Impericia en el manejo
+384706,Choque,Impericia en el manejo
+384707,Choque,No esperar prelacion de intersecciones o giros
+384708,Choque,Adelantar cerrando
+386692,Volcamiento,Embriaguez aparente
+391092,Atropello,Cruzar sin observar
+391093,Volcamiento,Impericia en el manejo
+391094,Choque,Otra - Conductor en General
+391095,Volcamiento,Fallas en los frenos
+391096,Incendio,Fallas en el sistema electrico
+391097,Volcamiento,Fallas en los frenos
+391098,Choque,No respetar la prelacion
+391492,Choque,"Falta de precaucion por niebla, lluvia o humo"
+391493,Choque,Otras - De la Via
+391494,Choque,Girar bruscamente
+391495,Volcamiento,Superficie húmeda
+391496,Choque,Impericia en el manejo
+391497,Choque,Otra - Conductor en General
+391498,Choque,No respetar la prelacion
+402712,Choque,Exceso de velocidad
+402713,Choque,Transitar en contra via
+402714,Choque,Transitar en contra via
+402715,Choque,Exceso de velocidad
+402716,Volcamiento,Falta de mantenimiento mecanico
+402717,Choque,Adelantar invadiendo caril de sentido contrario
+402718,Choque,Exceso de velocidad
+403098,Choque,Adelantar invadiendo caril de sentido contrario
+403099,Choque,No mantener distancia de seguridad
+403100,Choque,Impericia en el manejo
+403101,Choque,Otra - Conductor en General
+403102,Choque,Exceso en horas de conduccion
+403103,Choque,Impericia en el manejo
+403104,Salida de la vía sin volcarse,Exceso en horas de conduccion
+403105,Choque,Impericia en el manejo
+403106,Choque,Impericia en el manejo
+404292,Choque,Impericia en el manejo
+406305,Volcamiento,Otra - Conductor en General
+406309,Choque,Fallas en las llantas
+409113,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+409114,Choque,Otra - Del Vehiculo
+409115,Choque,Otra - Conductor en General
+409117,Choque,No mantener distancia de seguridad
+409119,Choque,Otras - De la Via
+409120,Volcamiento,Otra - Conductor en General
+409122,Volcamiento,Otra - Del Vehiculo
+409525,Atropello,Impericia en el manejo
+409516,Volcamiento,Fallas en la dirección
+409517,Volcamiento,Impericia en el manejo
+409518,Volcamiento,Otra - Conductor en General
+409519,Volcamiento,Desobedecer señales o normas de transito
+409522,Salida de la vía sin volcarse,Impericia en el manejo
+409526,Choque,Transitar por su derecha en vías rurales
+411899,Salida de la vía sin volcarse,Exceso en horas de conduccion
+411896,Choque,No mantener distancia de seguridad
+411897,Choque,Exceso de velocidad
+411900,Choque,Otras - De la Via
+411901,Choque,Exceso de velocidad
+412295,Salida de la vía sin volcarse,Impericia en el manejo
+412296,Choque,Impericia en el manejo
+412297,Salida de la vía sin volcarse,Impericia en el manejo
+412298,Choque,Impericia en el manejo
+412300,Choque,Impericia en el manejo
+412301,Choque,Impericia en el manejo
+412302,Choque,"Falta de precaucion por niebla, lluvia o humo"
+412304,Salida de la vía sin volcarse,Impericia en el manejo
+421500,Choque,Adelantar invadiendo caril de sentido contrario
+424707,Choque,No mantener distancia de seguridad
+425112,Choque,Girar bruscamente
+425492,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+427492,Choque,Otra - Conductor en General
+427493,Choque,Adelantar cerrando
+427494,Choque,Reverso imprudente
+427495,Choque,Fallas en los frenos
+427497,Choque,Impericia en el manejo
+427500,Choque,Impericia en el manejo
+427892,Volcamiento,Impericia en el manejo
+427893,Choque,Otra - Conductor en General
+427894,Atropello,Cruzar sin observar
+427896,Choque,Impericia en el manejo
+429892,Volcamiento,Embriaguez aparente
+430694,Salida de la vía sin volcarse,Falta de mantenimiento mecanico
+430695,Choque,Embriaguez aparente
+430696,Volcamiento,Exceso de velocidad
+430697,Choque,Embriaguez aparente
+430698,Atropello,Dejar o movilizar semovientes en la vía
+431093,Volcamiento,Falta de mantenimiento mecanico
+431094,Choque,Embriaguez aparente
+431095,Volcamiento,Exceso en horas de conduccion
+431096,Choque,Exceso de velocidad
+431097,Atropello,Dejar o movilizar semovientes en la vía
+440294,Choque,Exceso de velocidad
+440296,Choque,Adelantar en zona prohibida
+440297,Choque,Adelantar en zona prohibida
+440302,Choque,Salirse de la calzada
+442301,Choque,No mantener distancia de seguridad
+440305,Choque,No mantener distancia de seguridad
+440307,Choque,Frenar bruscamente
+440695,Choque,Dejar o movilizar semovientes en la vía
+440697,Choque,Otra - Conductor en General
+440698,Choque,Embriaguez aparente
+440699,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+440700,Choque,Otra - Conductor en General
+440701,Choque,Falta de señales en vehiculo varado
+440702,Choque,Impericia en el manejo
+440703,Choque,Frenar bruscamente
+440705,Choque,Impericia en el manejo
+440706,Choque,Impericia en el manejo
+440707,Choque,Otra - Conductor en General
+441099,Choque,No mantener distancia de seguridad
+441101,Choque,Girar bruscamente
+441103,Choque,Adelantar invadiendo caril de sentido contrario
+441105,Choque,No mantener distancia de seguridad
+442700,Choque,Impericia en el manejo
+443492,Choque,Adelantar en curva o en pendientes
+446303,Choque,Exceso de velocidad
+446697,Choque,Exceso de velocidad
+447095,Choque,Exceso de velocidad
+447096,Choque,"Falta de precaucion por niebla, lluvia o humo"
+447097,Salida de la vía sin volcarse,Exceso de velocidad
+447493,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+447895,Volcamiento,Exceso de velocidad
+447896,Choque,Exceso de velocidad
+447897,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+447898,Choque,Adelantar invadiendo carril del mismo sentido en zigzag
+447899,Salida de la vía sin volcarse,Exceso de velocidad
+447901,Choque,Exceso de velocidad
+447902,Salida de la vía sin volcarse,Exceso de velocidad
+448292,Choque,Impericia en el manejo
+448296,Salida de la vía sin volcarse,Impericia en el manejo
+448297,Choque,Exceso de velocidad
+448301,Choque,Exceso de velocidad
+448302,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+448303,Choque,"Falta de precaucion por niebla, lluvia o humo"
+448304,Choque,"Falta de precaucion por niebla, lluvia o humo"
+448306,Choque,Adelantar invadiendo caril de sentido contrario
+457096,Choque,Embriaguez aparente
+457098,Choque,Falta de prevencion ante animales en la via
+457494,Choque,Otra - Conductor en General
+457495,Volcamiento,Otra - Conductor en General
+457498,Choque,No mantener distancia de seguridad
+457501,Atropello,Impericia en el manejo
+458314,Choque,Exceso de velocidad
+458707,Choque,No mantener distancia de seguridad
+458708,Choque,Adelantar en zona prohibida
+458709,Choque,Exceso de velocidad
+458710,Choque,Girar bruscamente
+459112,Choque,No mantener distancia de seguridad
+459113,Choque,No hacer uso de señales reflectivas o luminosas
+459114,Caída de piedra,Otra - Conductor en General
+459115,Salida de la vía sin volcarse,"Falta de precaucion por niebla, lluvia o humo"
+459494,Choque,Girar bruscamente
+459495,Choque,Adelantar por la derecha
+459496,Volcamiento,Exceso de velocidad
+459894,Choque,Adelantar invadiendo caril de sentido contrario
+459895,Choque,Salirse de la calzada
+459896,Choque,No mantener distancia de seguridad
+462704,Choque,"Falta de precaucion por niebla, lluvia o humo"
+462705,Volcamiento,Falta de mantenimiento mecanico
+462706,Choque,Transitar en contra via
+462707,Choque,Adelantar en zona prohibida
+462708,Choque,Embriaguez aparente
+462709,Choque,Embriaguez aparente
+462710,Salida de la vía sin volcarse,Exceso en horas de conduccion
+462716,Choque,Impericia en el manejo
+462718,Incendio,Falta de mantenimiento mecanico
+462719,Choque,Impericia en el manejo
+462720,Choque,Adelantar invadiendo caril de sentido contrario
+463101,Choque,Adelantar invadiendo caril de sentido contrario
+463102,Choque,Impericia en el manejo
+463103,Choque,Adelantar invadiendo caril de sentido contrario
+463104,Choque,Adelantar cerrando
+463105,Volcamiento,Embriaguez aparente
+463106,Choque,Exceso de velocidad
+463107,Choque,Transitar en contra via
+463108,Choque,Impericia en el manejo
+463109,Volcamiento,Impericia en el manejo
+463110,Volcamiento,Exceso en horas de conduccion
+463111,Choque,Adelantar invadiendo caril de sentido contrario
+463113,Volcamiento,Exceso de velocidad
+463494,Choque,Impericia en el manejo
+465503,Salida de la vía sin volcarse,Impericia en el manejo
+469094,Volcamiento,Otra - Pasajero o acompañante
+469097,Choque,Embriaguez aparente
+469098,Atropello,Embriaguez aparente
+469100,Choque,Adelantar invadiendo caril de sentido contrario
+469101,Choque,Impericia en el manejo
+469103,Salida de la vía sin volcarse,Otra - Pasajero o acompañante
+469104,Choque,Fallas en la dirección
+469494,Choque,Adelantar invadiendo caril de sentido contrario
+470694,Choque,No mantener distancia de seguridad
+470695,Choque,Impericia en el manejo
+470696,Volcamiento,Falta de mantenimiento mecanico
+470697,Choque,"Falta de precaucion por niebla, lluvia o humo"
+470698,Volcamiento,Exceso en horas de conduccion
+470699,Salida de la vía sin volcarse,Impericia en el manejo
+470700,Salida de la vía sin volcarse,Impericia en el manejo
+470701,Choque,No mantener distancia de seguridad
+470702,Choque,Fallas en la dirección
+470703,Choque,Exceso de velocidad
+470704,Choque,No mantener distancia de seguridad
+470706,Choque,Impericia en el manejo
+470708,Choque,Impericia en el manejo
+470709,Choque,Impericia en el manejo
+470711,Salida de la vía sin volcarse,Exceso en horas de conduccion
+470712,Choque,Exceso de velocidad
+470714,Salida de la vía sin volcarse,Falta de mantenimiento mecanico
+470722,Choque,No mantener distancia de seguridad
+471094,Choque,Girar bruscamente
+471095,Choque,Impericia en el manejo
+471096,Choque,Impericia en el manejo
+471097,Choque,Impericia en el manejo
+471098,Salida de la vía sin volcarse,Falta de mantenimiento mecanico
+471099,Choque,No mantener distancia de seguridad
+471100,Choque,Impericia en el manejo
+471101,Choque,Adelantar en curva o en pendientes
+471102,Choque,Impericia en el manejo
+471103,Choque,Adelantar invadiendo caril de sentido contrario
+471104,Choque,Girar bruscamente
+471109,Choque,Adelantar invadiendo caril de sentido contrario
+471110,Salida de la vía sin volcarse,Exceso de velocidad
+471112,Volcamiento,Impericia en el manejo
+471113,Salida de la vía sin volcarse,"Falta de precaucion por niebla, lluvia o humo"
+471114,Choque,Impericia en el manejo
+471115,Atropello,Otras -Del Peatón
+471120,Choque,Adelantar invadiendo caril de sentido contrario
+471121,Choque,No mantener distancia de seguridad
+471122,Choque,Adelantar invadiendo caril de sentido contrario
+472351,Choque,Adelantar invadiendo caril de sentido contrario
+472352,Volcamiento,Impericia en el manejo
+472353,Choque,Impericia en el manejo
+472354,Choque,Adelantar en curva o en pendientes
+472355,Choque,Girar bruscamente
+472356,Choque,Falta de prevencion ante animales en la via
+472357,Choque,Girar bruscamente
+472358,Choque,No mantener distancia de seguridad
+472359,Choque,Otra - Conductor en General
+472369,Choque,Adelantar cerrando
+472370,Choque,Adelantar invadiendo caril de sentido contrario
+472372,Choque,No mantener distancia de seguridad
+472375,Choque,Otra - Conductor en General
+473500,Volcamiento,Otra - Conductor en General
+473894,Choque,Otra - Conductor en General
+473895,Choque,Adelantar cerrando
+473896,Choque,No mantener distancia de seguridad
+473897,Choque,Girar bruscamente
+473898,Choque,Embriaguez aparente
+474294,Choque,No mantener distancia de seguridad
+474295,Choque,Adelantar invadiendo caril de sentido contrario
+474296,Choque,Otra - Conductor en General
+474301,Choque,Girar bruscamente
+474302,Choque,Adelantar invadiendo caril de sentido contrario
+474304,Salida de la vía sin volcarse,Fallas en las llantas
+474307,Choque,No mantener distancia de seguridad
+474308,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+474695,Choque,"Falta de precaucion por niebla, lluvia o humo"
+474697,Choque,Girar bruscamente
+478694,Volcamiento,Impericia en el manejo
+479094,Choque,Impericia en el manejo
+479097,Choque,No mantener distancia de seguridad
+479099,Choque,"Falta de precaucion por niebla, lluvia o humo"
+479102,Volcamiento,Adelantar invadiendo caril de sentido contrario
+479103,Choque,Otra - Conductor en General
+479104,Salida de la vía sin volcarse,Defectos fisicos y psiquicos
+479494,Choque,"Falta de precaucion por niebla, lluvia o humo"
+479495,Choque,Otra - Conductor en General
+479496,Choque,"Falta de precaucion por niebla, lluvia o humo"
+480294,Choque,Otra - Conductor en General
+480694,Choque,Exceso en horas de conduccion
+480695,Choque,Girar bruscamente
+480696,Choque,Otra - Conductor en General
+480698,Choque,Girar bruscamente
+481094,Choque,Otra - Conductor en General
+481095,Choque,Impericia en el manejo
+481096,Choque,No mantener distancia de seguridad
+481098,Choque,"Falta de precaucion por niebla, lluvia o humo"
+482294,Choque,Impericia en el manejo
+482295,Volcamiento,Exceso de velocidad
+482296,Choque,Adelantar invadiendo caril de sentido contrario
+482297,Salida de la vía sin volcarse,Exceso en horas de conduccion
+482694,Choque,Otras - De la Via
+482695,Choque,Impericia en el manejo
+482696,Volcamiento,Falta de mantenimiento mecanico
+483096,Salida de la vía sin volcarse,Impericia en el manejo
+483099,Choque,Impericia en el manejo
+483100,Choque,Embriaguez aparente
+483101,Atropello,Impericia en el manejo
+483494,Choque,Impericia en el manejo
+483496,Volcamiento,Falta de mantenimiento mecanico
+483497,Choque,Impericia en el manejo
+483498,Choque,Impericia en el manejo
+494704,Choque,Impericia en el manejo
+496703,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+497103,Choque,No esperar prelacion de intersecciones o giros
+497109,Choque,"Falta de precaucion por niebla, lluvia o humo"
+497110,Choque,Impericia en el manejo
+497503,Choque,Adelantar invadiendo caril de sentido contrario
+497506,Salida de la vía sin volcarse,Falta de mantenimiento mecanico
+497507,Volcamiento,Falta de mantenimiento mecanico
+497508,Choque,"Falta de precaucion por niebla, lluvia o humo"
+497509,Choque,Embriaguez aparente
+497510,Volcamiento,Impericia en el manejo
+497903,Choque,Otra - Conductor en General
+498704,Atropello,Transitar por la calzada
+498705,Choque,Impericia en el manejo
+498706,Choque,Adelantar invadiendo caril de sentido contrario
+499103,Choque,Girar bruscamente
+499503,Choque,Fallas en la dirección
+499505,Choque,Otra - Del Vehiculo
+499506,Choque,Otra - Conductor en General
+499507,Choque,Otra - Conductor en General
+499509,Volcamiento,Impericia en el manejo
+499510,Choque,Adelantar invadiendo caril de sentido contrario
+499511,Choque,Adelantar cerrando
+499512,Atropello,Transitar por la calzada
+499908,Salida de la vía sin volcarse,Impericia en el manejo
+499911,Volcamiento,Salirse de la calzada
+499912,Choque,Otra - Conductor en General
+505103,Choque,Adelantar invadiendo caril de sentido contrario
+509903,Volcamiento,Impericia en el manejo
+509904,Choque,Exceso de velocidad
+515904,Choque,Otra - Conductor en General
+515905,Choque,Otra - Conductor en General
+515906,Volcamiento,Fallas en los frenos
+515907,Volcamiento,Otra - Del Vehiculo
+515908,Choque,"Falta de precaucion por niebla, lluvia o humo"
+515909,Choque,"Falta de precaucion por niebla, lluvia o humo"
+515910,Choque,No mantener distancia de seguridad
+515911,Atropello,Superficie lisa
+516708,Incendio,Fallas en el sistema electrico
+516709,Volcamiento,Superficie lisa
+516710,Volcamiento,Embriaguez aparente
+516711,Choque,Embriaguez aparente
+517103,Choque,Otra - Conductor en General
+517104,Choque,Otra - Conductor en General
+517106,Choque,Otra - Conductor en General
+517109,Choque,Girar bruscamente
+517110,Volcamiento,Exceso de peso
+517111,Choque,Girar bruscamente
+519106,Choque,"Falta de precaucion por niebla, lluvia o humo"
+519108,Incendio,Otra - Conductor en General
+519503,Choque,"Falta de precaucion por niebla, lluvia o humo"
+519504,Choque,"Falta de precaucion por niebla, lluvia o humo"
+519506,Choque,"Falta de precaucion por niebla, lluvia o humo"
+519903,Volcamiento,Embriaguez aparente
+519904,Choque,Frenar bruscamente
+522303,Volcamiento,Impericia en el manejo
+523103,Choque,Otra - Conductor en General
+523507,Volcamiento,Exceso de velocidad
+523905,Choque,Otra - Conductor en General
+523906,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+523907,Volcamiento,Falta de mantenimiento mecanico
+523909,Choque,"Falta de precaucion por niebla, lluvia o humo"
+523910,Choque,Reverso imprudente
+523911,Volcamiento,Otra - Conductor en General
+524306,Volcamiento,Exceso en horas de conduccion
+524704,Choque,Exceso de velocidad
+525103,Choque,Exceso de velocidad
+529111,Choque,Exceso de velocidad
+530304,Choque,Otra - Conductor en General
+530308,Choque,Adelantar invadiendo caril de sentido contrario
+530310,Choque,Otra - Conductor en General
+530311,Volcamiento,Fallas en los frenos
+530708,Choque,Girar bruscamente
+533106,Choque,No mantener distancia de seguridad
+533903,Volcamiento,Exceso en horas de conduccion
+534303,Volcamiento,Exceso de velocidad
+535104,Volcamiento,Impericia en el manejo
+539103,Choque,Impericia en el manejo
+539104,Salida de la vía sin volcarse,Exceso en horas de conduccion
+539105,Choque,"Falta de precaucion por niebla, lluvia o humo"
+539106,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+539107,Salida de la vía sin volcarse,Falta de mantenimiento mecanico
+539108,Choque,Otra - Conductor en General
+539504,Choque,Otra - Conductor en General
+539505,Volcamiento,"Falta de precaucion por niebla, lluvia o humo"
+539506,Choque,Otra - Conductor en General
+539507,Choque,"Falta de precaucion por niebla, lluvia o humo"
+539508,Choque,Otra - Conductor en General
+539509,Choque,"Falta de precaucion por niebla, lluvia o humo"
+539510,Choque,Otra - Conductor en General
+539511,Atropello,Otra - Conductor en General
+548303,Atropello,Exceso de velocidad
+549103,Choque,Impericia en el manejo
+549104,Choque,No mantener distancia de seguridad
+549105,Choque,Impericia en el manejo
+549106,Choque,Exceso de velocidad
+549107,Choque,Otra - Conductor en General
+549109,Salida de la vía sin volcarse,Exceso de velocidad
+549110,Choque,No mantener distancia de seguridad
+549111,Choque,Impericia en el manejo
+549112,Choque,Exceso de velocidad
+549505,Volcamiento,Otra - Conductor en General
+549507,Choque,Adelantar en curva o en pendientes
+549509,Choque,Exceso de velocidad
+549510,Choque,Impericia en el manejo
+554703,Choque,Otra - Conductor en General
+556306,Choque,Embriaguez aparente
+557503,Salida de la vía sin volcarse,Otra - Conductor en General
+557504,Salida de la vía sin volcarse,"Falta de precaucion por niebla, lluvia o humo"
+557505,Choque,Otra - Conductor en General
+557506,Volcamiento,Exceso en horas de conduccion
+557507,Volcamiento,Exceso en horas de conduccion
+557903,Choque,"Falta de precaucion por niebla, lluvia o humo"
+557904,Choque,"Falta de precaucion por niebla, lluvia o humo"
+557905,Choque,"Falta de precaucion por niebla, lluvia o humo"
+557907,Salida de la vía sin volcarse,"Falta de precaucion por niebla, lluvia o humo"
+557909,Choque,"Falta de precaucion por niebla, lluvia o humo"
+557910,Choque,Otra - Conductor en General
+557913,Choque,Otra - Conductor en General
+557916,Choque,"Falta de precaucion por niebla, lluvia o humo"
+558304,Choque,Otra - Conductor en General
+558305,Salida de la vía sin volcarse,"Falta de precaucion por niebla, lluvia o humo"
+558308,Volcamiento,Exceso en horas de conduccion
+558309,Atropello,Impericia en el manejo
+558311,Choque,Otra - Conductor en General
+558313,Salida de la vía sin volcarse,"Falta de precaucion por niebla, lluvia o humo"
+558315,Choque,Exceso de velocidad
+565917,Choque,Exceso de velocidad
+563904,Choque,No mantener distancia de seguridad
+563905,Choque,Impericia en el manejo
+565906,Choque,Otra - Conductor en General
+565907,Volcamiento,Exceso de velocidad
+565908,Salida de la vía sin volcarse,Otra - Conductor en General
+565909,Salida de la vía sin volcarse,"Falta de precaucion por niebla, lluvia o humo"
+565910,Choque,"Falta de precaucion por niebla, lluvia o humo"
+565911,Choque,Exceso de velocidad
+565912,Choque,Exceso en horas de conduccion
+565913,Choque,Otra - Conductor en General
+565914,Choque,Embriaguez aparente
+565915,Choque,Exceso de velocidad
+565916,Atropello,Otra - Conductor en General

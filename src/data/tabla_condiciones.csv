@@ -1,0 +1,1633 @@
+id_conditions ,surface_condition,land ,weather_condition 
+62328,Humeda,Plano,Lluvia
+62330,Humeda,Ondulado,Lluvia
+62336,Humeda,Ondulado,Lluvia
+62726,Humeda,Montañoso,Lluvia
+62727,Seca y limpia,Montañoso,Normal
+63538,Seca y limpia,Plano,Normal
+63539,Seca y limpia,Montañoso,Normal
+63540,Seca y limpia,Plano,Normal
+66749,Humeda,Ondulado,Lluvia
+66750,Humeda,Ondulado,Lluvia
+66751,Humeda,Plano,Lluvia
+66752,Seca y limpia,Montañoso,Normal
+66753,Humeda,Ondulado,Lluvia
+66754,Seca y limpia,Ondulado,Normal
+66755,Humeda,Ondulado,Lluvia
+66756,Seca y limpia,Montañoso,Normal
+66757,Humeda,Ondulado,Lluvia
+66759,Humeda,Ondulado,Lluvia
+66760,Humeda,Ondulado,Lluvia
+66761,Seca y limpia,Ondulado,Normal
+67946,Seca y limpia,Montañoso,Sol
+67949,Seca y limpia,Montañoso,Seca
+67950,Humeda,Montañoso,Lluvia
+68342,Seca y limpia,Montañoso,Seca
+68343,Seca y limpia,Montañoso,Seca
+68345,Seca y limpia,Montañoso,Seca
+68353,Seca y limpia,Plano,Seca
+68356,Seca y limpia,Montañoso,Seca
+68358,Seca y limpia,Montañoso,Seca
+70772,Seca y limpia,Montañoso,Normal
+71569,Seca y limpia,Plano,Normal
+71570,Seca y limpia,Plano,Normal
+71571,Seca y limpia,Plano,Normal
+74373,Humeda,Ondulado,Lluvia
+74374,Humeda,Plano,Lluvia
+74375,Seca y limpia,Plano,Normal
+74376,Seca y limpia,Plano,Normal
+74377,Seca y limpia,Plano,Normal
+75584,Seca y limpia,Plano,Normal
+75586,Seca y limpia,Plano,Normal
+75589,Seca y limpia,Montañoso,Normal
+75979,Humeda,Ondulado,Lluvia
+75980,Humeda,Ondulado,Lluvia
+75982,Seca y limpia,Ondulado,Normal
+75984,Humeda,Ondulado,Lluvia
+75986,Seca y limpia,Ondulado,Normal
+75987,Seca y limpia,Montañoso,Normal
+75988,Seca y limpia,Ondulado,Normal
+75989,Seca y limpia,Montañoso,Normal
+75990,Seca y limpia,Montañoso,Normal
+76391,Seca y limpia,Ondulado,Normal
+76398,Humeda,Montañoso,Lluvia
+76793,Humeda,Montañoso,Lluvia
+77588,Humeda,Plano,Lluvia
+77589,Humeda,Montañoso,Lluvia
+77590,Humeda,Plano,Niebla
+77591,Seca y limpia,Plano,Normal
+77592,Seca y limpia,Plano,Normal
+83998,Seca y limpia,Montañoso,Sol
+83999,Seca y limpia,Plano,Normal
+93601,Seca y limpia,Plano,Normal
+93602,Seca y limpia,Plano,Normal
+93603,Seca y limpia,Plano,Normal
+93604,Seca y limpia,Plano,Normal
+94003,Seca y limpia,Plano,Normal
+94005,Seca y limpia,Ondulado,Normal
+94007,Seca y limpia,Plano,Normal
+94008,Seca y limpia,Ondulado,Normal
+95973,Humeda,Montañoso,Lluvia
+95974,Humeda,Ondulado,Niebla
+95975,Humeda,Plano,Lluvia
+95976,Seca y limpia,Plano,Seca
+95977,Seca y limpia,Plano,Seca
+95978,Seca y limpia,Plano,Sol
+95979,Seca y limpia,Plano,Seca
+95980,Seca y limpia,Ondulado,Seca
+95981,Seca y limpia,Escarpado,Sol
+95982,Seca y limpia,Plano,Seca
+95983,Humeda,Plano,Lluvia
+95984,Seca y limpia,Plano,Seca
+95985,Seca y limpia,Plano,Seca
+95986,Humeda,Ondulado,Lluvia
+95987,Humeda,Ondulado,Lluvia
+95988,Humeda,Montañoso,Lluvia
+95989,Seca y limpia,Montañoso,Sol
+95990,Seca y limpia,Plano,Seca
+95991,Seca y limpia,Montañoso,Seca
+95992,Seca y limpia,Montañoso,Sol
+95993,Seca y limpia,Montañoso,Seca
+95999,Humeda,Escarpado,Lluvia
+96000,Humeda,Escarpado,Lluvia
+96001,Humeda,Ondulado,Lluvia
+96002,Humeda,Escarpado,Lluvia
+96007,Seca y limpia,Plano,Normal
+96008,Seca y limpia,Escarpado,Normal
+96015,Seca y limpia,Escarpado,Normal
+96016,Seca y limpia,Ondulado,Normal
+96024,Seca y limpia,Montañoso,Normal
+96025,Seca y limpia,Escarpado,Normal
+96031,Humeda,Escarpado,Lluvia
+96044,Humeda,Montañoso,Lluvia
+96053,Humeda,Montañoso,Lluvia
+96054,Seca y limpia,Montañoso,Seca
+96055,Seca y limpia,Ondulado,Normal
+96234,Seca y limpia,Montañoso,Normal
+96235,Humeda,Ondulado,Lluvia
+96238,Humeda,Escarpado,Lluvia
+96241,Seca y limpia,Escarpado,Normal
+96242,Seca y limpia,Plano,Normal
+96243,Seca y limpia,Escarpado,Normal
+96244,Seca y limpia,Escarpado,Normal
+96245,Humeda,Escarpado,Lluvia
+96246,Humeda,Escarpado,Lluvia
+96247,Seca y limpia,Escarpado,Sol
+96248,Seca y limpia,Escarpado,Normal
+96249,Seca y limpia,Escarpado,Normal
+96250,Seca y limpia,Escarpado,Normal
+96251,Seca y limpia,Escarpado,Normal
+96252,Humeda,Escarpado,Lluvia
+96253,Seca y limpia,Escarpado,Normal
+96254,Seca y limpia,Escarpado,Normal
+96255,Seca y limpia,Escarpado,Normal
+96264,Seca y limpia,Escarpado,Normal
+96265,Seca y limpia,Ondulado,Normal
+96266,Helada,Plano,Niebla
+96267,Seca y limpia,Plano,Normal
+96268,Seca y limpia,Plano,Normal
+96269,Seca y limpia,Plano,Normal
+96270,Seca y limpia,Plano,Normal
+96271,Humeda,Plano,Lluvia
+96272,Humeda,Plano,Lluvia
+96273,Seca y limpia,Plano,Normal
+96274,Seca y limpia,Plano,Normal
+96275,Seca y limpia,Plano,Normal
+96276,Seca y limpia,Ondulado,Normal
+96277,Humeda,Ondulado,Lluvia
+96278,Seca y limpia,Plano,Normal
+96279,Seca y limpia,Plano,Normal
+96280,Seca y limpia,Plano,Normal
+96281,Seca y limpia,Plano,Normal
+96282,Seca y limpia,Ondulado,Normal
+96283,Seca y limpia,Ondulado,Normal
+96284,Seca y limpia,Ondulado,Normal
+96285,Seca y limpia,Plano,Normal
+96286,Humeda,Ondulado,Lluvia
+96287,Seca y limpia,Plano,Normal
+96288,Seca y limpia,Ondulado,Normal
+96289,Humeda,Plano,Lluvia
+96290,Humeda,Ondulado,Lluvia
+96291,Seca y limpia,Montañoso,Normal
+96292,Seca y limpia,Ondulado,Normal
+96293,Humeda,Plano,Lluvia
+96294,Humeda,Ondulado,Lluvia
+96295,Humeda,Plano,Lluvia
+96296,Seca y limpia,Ondulado,Normal
+96297,Seca y limpia,Plano,Normal
+96298,Seca y limpia,Montañoso,Normal
+96299,Seca y limpia,Ondulado,Normal
+96300,Seca y limpia,Plano,Normal
+96301,Seca y limpia,Plano,Normal
+96302,Humeda,Plano,Lluvia
+96303,Seca y limpia,Plano,Normal
+96304,Seca y limpia,Ondulado,Normal
+96305,Seca y limpia,Montañoso,Normal
+96306,Seca y limpia,Ondulado,Normal
+96307,Humeda,Plano,Lluvia
+96308,Humeda,Plano,Lluvia
+96309,Seca y limpia,Plano,Normal
+96310,Seca y limpia,Ondulado,Normal
+96311,Seca y limpia,Ondulado,Normal
+96312,Seca y limpia,Plano,Normal
+96313,Humeda,Plano,Lluvia
+96314,Humeda,Plano,Lluvia
+96315,Seca y limpia,Plano,Normal
+96316,Seca y limpia,Plano,Normal
+96317,Seca y limpia,Ondulado,Normal
+96318,Seca y limpia,Ondulado,Normal
+96319,Seca y limpia,Ondulado,Normal
+96320,Seca y limpia,Ondulado,Normal
+96321,Seca y limpia,Plano,Normal
+96322,Seca y limpia,Plano,Normal
+96323,Humeda,Plano,Lluvia
+96324,Humeda,Ondulado,Lluvia
+96325,Seca y limpia,Plano,Normal
+96326,Seca y limpia,Ondulado,Normal
+96327,Seca y limpia,Plano,Normal
+96328,Humeda,Ondulado,Lluvia
+96445,Seca y limpia,Montañoso,Seca
+96446,Seca y limpia,Plano,Sol
+96447,Seca y limpia,Plano,Sol
+96448,Seca y limpia,Plano,Sol
+96449,Seca y limpia,Plano,Sol
+96450,Seca y limpia,Escarpado,Sol
+96451,Seca y limpia,Plano,Sol
+96699,Seca y limpia,Montañoso,Sol
+96700,Seca y limpia,Montañoso,Sol
+96701,Aceite,Montañoso,Normal
+96702,Seca y limpia,Montañoso,Normal
+96703,Seca y limpia,Montañoso,Normal
+96704,Seca y limpia,Montañoso,Normal
+96705,Seca y limpia,Plano,Sol
+96706,Seca y limpia,Montañoso,Sol
+96707,Seca y limpia,Montañoso,Sol
+96708,Seca y limpia,Montañoso,Sol
+96709,Seca y limpia,Montañoso,Sol
+96710,Humeda,Montañoso,Lluvia
+96711,Seca y limpia,Montañoso,Sol
+96712,Seca y limpia,Plano,Normal
+96713,Seca y limpia,Plano,Normal
+96714,Seca y limpia,Plano,Normal
+96715,Seca y limpia,Plano,Normal
+96716,Humeda,Plano,Lluvia
+96717,Seca y limpia,Ondulado,Normal
+96718,Seca y limpia,Ondulado,Normal
+96719,Humeda,Ondulado,Lluvia
+96720,Seca y limpia,Plano,Normal
+96721,Seca y limpia,Plano,Normal
+96722,Seca y limpia,Plano,Normal
+96723,Seca y limpia,Plano,Normal
+96724,Seca y limpia,Plano,Normal
+96725,Seca y limpia,Montañoso,Normal
+96726,Seca y limpia,Montañoso,Normal
+96727,Seca y limpia,Ondulado,Normal
+96728,Seca y limpia,Plano,Normal
+96729,Seca y limpia,Plano,Normal
+96730,Seca y limpia,Plano,Normal
+96731,Seca y limpia,Ondulado,Normal
+96732,Seca y limpia,Montañoso,Normal
+96733,Seca y limpia,Montañoso,Sol
+96734,Seca y limpia,Plano,Normal
+96735,Humeda,Plano,Lluvia
+96736,Seca y limpia,Plano,Normal
+96737,Seca y limpia,Plano,Sol
+96738,Seca y limpia,Ondulado,Normal
+96739,Seca y limpia,Montañoso,Normal
+96740,Seca y limpia,Ondulado,Sol
+96741,Humeda,Plano,Lluvia
+96742,Seca y limpia,Plano,Normal
+96743,Seca y limpia,Plano,Normal
+96744,Seca y limpia,Montañoso,Sol
+96745,Seca y limpia,Plano,Normal
+96746,Seca y limpia,Plano,Sol
+96747,Seca y limpia,Ondulado,Normal
+96748,Seca y limpia,Ondulado,Normal
+96749,Seca y limpia,Ondulado,Normal
+96750,Humeda,Plano,Lluvia
+96751,Seca y limpia,Plano,Normal
+96752,Seca y limpia,Plano,Normal
+96753,Seca y limpia,Plano,Normal
+96754,Seca y limpia,Plano,Normal
+96755,Seca y limpia,Plano,Normal
+96756,Lodo,Montañoso,Lluvia
+96757,Seca y limpia,Montañoso,Seca
+96758,Seca y limpia,Montañoso,Seca
+96759,Seca y limpia,Ondulado,Normal
+96760,Seca y limpia,Ondulado,Normal
+96761,Seca y limpia,Ondulado,Normal
+96762,Seca y limpia,Ondulado,Normal
+96763,Seca y limpia,Ondulado,Normal
+96764,Seca y limpia,Plano,Normal
+96765,Seca y limpia,Plano,Normal
+96766,Seca y limpia,Plano,Normal
+96767,Seca y limpia,Plano,Normal
+96768,Seca y limpia,Montañoso,Normal
+96769,Seca y limpia,Plano,Normal
+96770,Seca y limpia,Ondulado,Normal
+96771,Seca y limpia,Ondulado,Normal
+96772,Seca y limpia,Plano,Normal
+96773,Seca y limpia,Ondulado,Normal
+97056,Seca y limpia,Plano,Normal
+97057,Seca y limpia,Plano,Normal
+97058,Seca y limpia,Plano,Normal
+97059,Seca y limpia,Plano,Normal
+97060,Seca y limpia,Plano,Normal
+97061,Seca y limpia,Plano,Normal
+97064,Seca y limpia,Plano,Normal
+97065,Seca y limpia,Plano,Normal
+97066,Seca y limpia,Plano,Normal
+97067,Seca y limpia,Plano,Normal
+97068,Seca y limpia,Plano,Normal
+97069,Seca y limpia,Plano,Normal
+97188,Seca y limpia,Plano,Normal
+97189,Seca y limpia,Plano,Normal
+97190,Seca y limpia,Plano,Normal
+97191,Seca y limpia,Plano,Normal
+97192,Seca y limpia,Plano,Normal
+97193,Seca y limpia,Ondulado,Normal
+97194,Seca y limpia,Plano,Normal
+97195,Seca y limpia,Plano,Normal
+97196,Humeda,Ondulado,Lluvia
+97197,Seca y limpia,Ondulado,Normal
+97198,Seca y limpia,Plano,Normal
+97199,Seca y limpia,Plano,Normal
+97200,Seca y limpia,Plano,Normal
+97201,Humeda,Ondulado,Lluvia
+97202,Humeda,Plano,Lluvia
+97203,Seca y limpia,Ondulado,Normal
+97204,Seca y limpia,Ondulado,Normal
+97205,Humeda,Ondulado,Lluvia
+97206,Seca y limpia,Ondulado,Normal
+97207,Humeda,Ondulado,Lluvia
+97208,Humeda,Ondulado,Lluvia
+97209,Humeda,Ondulado,Lluvia
+97210,Humeda,Ondulado,Lluvia
+97211,Seca y limpia,Montañoso,Normal
+97212,Humeda,Ondulado,Lluvia
+97213,Humeda,Ondulado,Lluvia
+97214,Humeda,Ondulado,Lluvia
+97215,Humeda,Ondulado,Lluvia
+97216,Humeda,Ondulado,Lluvia
+97217,Seca y limpia,Plano,Normal
+97218,Seca y limpia,Ondulado,Normal
+97219,Seca y limpia,Montañoso,Normal
+97220,Humeda,Montañoso,Lluvia
+97221,Seca y limpia,Ondulado,Normal
+97222,Seca y limpia,Ondulado,Normal
+97223,Seca y limpia,Ondulado,Normal
+97224,Seca y limpia,Ondulado,Normal
+97225,Humeda,Ondulado,Lluvia
+97226,Seca y limpia,Ondulado,Normal
+97227,Seca y limpia,Ondulado,Normal
+97228,Humeda,Ondulado,Lluvia
+97229,Seca y limpia,Ondulado,Normal
+97230,Humeda,Montañoso,Lluvia
+97231,Seca y limpia,Ondulado,Normal
+97232,Seca y limpia,Montañoso,Normal
+97233,Humeda,Ondulado,Lluvia
+97234,Seca y limpia,Montañoso,Normal
+97235,Humeda,Ondulado,Lluvia
+97236,Seca y limpia,Montañoso,Normal
+97237,Seca y limpia,Plano,Normal
+97238,Seca y limpia,Montañoso,Normal
+97239,Seca y limpia,Ondulado,Normal
+97240,Humeda,Ondulado,Lluvia
+97241,Seca y limpia,Plano,Normal
+97242,Humeda,Escarpado,Lluvia
+97243,Seca y limpia,Plano,Normal
+97244,Humeda,Ondulado,Lluvia
+97245,Seca y limpia,Plano,Normal
+97246,Seca y limpia,Montañoso,Normal
+97247,Humeda,Ondulado,Lluvia
+97248,Humeda,Montañoso,Lluvia
+97249,Humeda,Ondulado,Lluvia
+97250,Humeda,Ondulado,Lluvia
+97251,Seca y limpia,Montañoso,Normal
+97252,Humeda,Plano,Lluvia
+97253,Seca y limpia,Montañoso,Normal
+97254,Humeda,Ondulado,Lluvia
+97255,Humeda,Plano,Lluvia
+97256,Seca y limpia,Plano,Normal
+97257,Seca y limpia,Escarpado,Normal
+97258,Humeda,Ondulado,Lluvia
+97259,Humeda,Plano,Lluvia
+97260,Humeda,Ondulado,Lluvia
+97261,Seca y limpia,Plano,Normal
+97262,Humeda,Ondulado,Lluvia
+97263,Seca y limpia,Escarpado,Normal
+97264,Humeda,Montañoso,Lluvia
+97265,Seca y limpia,Plano,Normal
+97266,Seca y limpia,Plano,Normal
+97267,Humeda,Ondulado,Lluvia
+97268,Seca y limpia,Ondulado,Normal
+97269,Humeda,Ondulado,Lluvia
+97270,Humeda,Ondulado,Lluvia
+97271,Seca y limpia,Ondulado,Normal
+97272,Humeda,Escarpado,Lluvia
+97273,Seca y limpia,Montañoso,Normal
+97274,Seca y limpia,Ondulado,Normal
+97275,Seca y limpia,Plano,Sol
+97276,Humeda,Montañoso,Lluvia
+97277,Humeda,Plano,Lluvia
+97278,Seca y limpia,Ondulado,Normal
+97279,Seca y limpia,Plano,Normal
+97280,Seca y limpia,Ondulado,Normal
+97281,Humeda,Ondulado,Lluvia
+97282,Humeda,Plano,Lluvia
+97283,Humeda,Ondulado,Lluvia
+97284,Humeda,Montañoso,Lluvia
+97285,Humeda,Ondulado,Lluvia
+97286,Humeda,Ondulado,Lluvia
+97287,Humeda,Montañoso,Lluvia
+97288,Seca y limpia,Montañoso,Normal
+97289,Seca y limpia,Montañoso,Normal
+97290,Humeda,Ondulado,Lluvia
+97291,Seca y limpia,Ondulado,Sol
+97292,Seca y limpia,Plano,Normal
+97293,Seca y limpia,Ondulado,Normal
+97294,Humeda,Plano,Lluvia
+97295,Humeda,Plano,Lluvia
+97296,Humeda,Ondulado,Lluvia
+97297,Humeda,Plano,Lluvia
+97298,Humeda,Plano,Lluvia
+97299,Seca y limpia,Ondulado,Normal
+97300,Humeda,Ondulado,Lluvia
+97301,Seca y limpia,Plano,Normal
+97302,Seca y limpia,Ondulado,Normal
+97303,Seca y limpia,Montañoso,Normal
+97304,Humeda,Ondulado,Lluvia
+97305,Humeda,Ondulado,Lluvia
+97306,Humeda,Ondulado,Lluvia
+97307,Humeda,Ondulado,Lluvia
+97308,Seca y limpia,Montañoso,Normal
+97309,Humeda,Ondulado,Lluvia
+97310,Seca y limpia,Ondulado,Normal
+97311,Humeda,Ondulado,Lluvia
+97312,Humeda,Ondulado,Lluvia
+97313,Seca y limpia,Ondulado,Normal
+97314,Seca y limpia,Ondulado,Seca
+97315,Humeda,Montañoso,Lluvia
+97316,Humeda,Ondulado,Lluvia
+97317,Seca y limpia,Montañoso,Normal
+97318,Humeda,Ondulado,Lluvia
+97319,Humeda,Ondulado,Lluvia
+97320,Humeda,Plano,Lluvia
+97321,Humeda,Ondulado,Lluvia
+97322,Humeda,Ondulado,Lluvia
+97323,Seca y limpia,Ondulado,Normal
+97324,Humeda,Ondulado,Lluvia
+97325,Seca y limpia,Ondulado,Normal
+97326,Seca y limpia,Ondulado,Normal
+97327,Seca y limpia,Ondulado,Normal
+97328,Humeda,Ondulado,Lluvia
+97533,Seca y limpia,Plano,Normal
+97475,Seca y limpia,Plano,Viento
+97476,Humeda,Plano,Lluvia
+97477,Seca y limpia,Plano,Normal
+97478,Seca y limpia,Plano,Normal
+97479,Seca y limpia,Plano,Normal
+97480,Seca y limpia,Plano,Normal
+97481,Seca y limpia,Plano,Normal
+97482,Seca y limpia,Plano,Normal
+97483,Seca y limpia,Plano,Normal
+97484,Seca y limpia,Plano,Normal
+97485,Seca y limpia,Plano,Normal
+97486,Seca y limpia,Plano,Normal
+97487,Seca y limpia,Plano,Normal
+97488,Seca y limpia,Plano,Normal
+97489,Seca y limpia,Plano,Normal
+97490,Seca y limpia,Plano,Normal
+97491,Humeda,Plano,Lluvia
+97492,Seca y limpia,Plano,Normal
+97493,Humeda,Plano,Lluvia
+97494,Seca y limpia,Plano,Normal
+97495,Seca y limpia,Plano,Normal
+97496,Seca y limpia,Plano,Normal
+97497,Seca y limpia,Plano,Niebla
+97498,Humeda,Plano,Lluvia
+97499,Seca y limpia,Plano,Normal
+97500,Humeda,Plano,Lluvia
+97501,Seca y limpia,Plano,Niebla
+97502,Seca y limpia,Plano,Normal
+97503,Humeda,Plano,Lluvia
+97504,Seca y limpia,Plano,Normal
+97505,Seca y limpia,Plano,Normal
+97506,Seca y limpia,Plano,Normal
+97507,Seca y limpia,Plano,Niebla
+97508,Seca y limpia,Plano,Normal
+97509,Seca y limpia,Plano,Normal
+97510,Seca y limpia,Plano,Normal
+97511,Humeda,Plano,Lluvia
+97512,Seca y limpia,Plano,Niebla
+97513,Seca y limpia,Plano,Normal
+97514,Seca y limpia,Plano,Normal
+97515,Seca y limpia,Plano,Normal
+97516,Humeda,Plano,Lluvia
+97517,Seca y limpia,Plano,Normal
+97518,Seca y limpia,Plano,Normal
+97519,Seca y limpia,Plano,Normal
+97520,Seca y limpia,Plano,Normal
+97521,Seca y limpia,Plano,Normal
+97522,Seca y limpia,Plano,Normal
+97523,Humeda,Plano,Lluvia
+97524,Humeda,Plano,Lluvia
+97525,Humeda,Plano,Lluvia
+97526,Seca y limpia,Plano,Normal
+97527,Humeda,Plano,Lluvia
+97528,Seca y limpia,Plano,Normal
+97529,Seca y limpia,Plano,Normal
+97530,Humeda,Plano,Lluvia
+97531,Seca y limpia,Plano,Normal
+97532,Humeda,Plano,Lluvia
+97534,Seca y limpia,Plano,Normal
+97535,Humeda,Plano,Lluvia
+97536,Seca y limpia,Plano,Normal
+97537,Seca y limpia,Plano,Normal
+97538,Seca y limpia,Plano,Viento
+97539,Seca y limpia,Plano,Normal
+97540,Seca y limpia,Plano,Normal
+97541,Seca y limpia,Plano,Normal
+97542,Seca y limpia,Plano,Niebla
+97626,Humeda,Montañoso,Lluvia
+97627,Seca y limpia,Ondulado,Sol
+97628,Seca y limpia,Ondulado,Normal
+97629,Seca y limpia,Plano,Normal
+97630,Humeda,Ondulado,Lluvia
+97631,Humeda,Ondulado,Lluvia
+97632,Seca y limpia,Ondulado,Normal
+97633,Humeda,Ondulado,Lluvia
+97634,Humeda,Ondulado,Lluvia
+97635,Seca y limpia,Ondulado,Normal
+97636,Seca y limpia,Montañoso,Normal
+97637,Seca y limpia,Ondulado,Normal
+97638,Seca y limpia,Ondulado,Normal
+97639,Humeda,Ondulado,Lluvia
+97640,Seca y limpia,Ondulado,Normal
+97641,Seca y limpia,Plano,Normal
+97642,Seca y limpia,Plano,Normal
+97643,Seca y limpia,Montañoso,Normal
+97955,Seca y limpia,Plano,Normal
+97956,Seca y limpia,Plano,Normal
+97957,Seca y limpia,Plano,Normal
+97958,Seca y limpia,Plano,Normal
+97959,Seca y limpia,Plano,Normal
+97960,Seca y limpia,Plano,Normal
+97961,Seca y limpia,Plano,Normal
+97962,Seca y limpia,Plano,Normal
+97963,Seca y limpia,Plano,Normal
+97964,Seca y limpia,Plano,Normal
+97965,Seca y limpia,Plano,Normal
+97966,Seca y limpia,Plano,Normal
+97967,Seca y limpia,Plano,Normal
+97968,Seca y limpia,Plano,Normal
+97969,Humeda,Plano,Lluvia
+97970,Seca y limpia,Plano,Normal
+97971,Seca y limpia,Plano,Normal
+97972,Seca y limpia,Plano,Normal
+97973,Seca y limpia,Plano,Normal
+97974,Seca y limpia,Plano,Normal
+97975,Seca y limpia,Plano,Normal
+97976,Seca y limpia,Plano,Normal
+101910,Lodo,Montañoso,Niebla
+101913,Helada,Plano,Niebla
+101914,Seca y limpia,Plano,Normal
+101915,Seca y limpia,Plano,Normal
+101916,Seca y limpia,Plano,Normal
+101917,Seca y limpia,Plano,Normal
+101918,Seca y limpia,Plano,Normal
+101919,Seca y limpia,Plano,Normal
+101920,Humeda,Plano,Lluvia
+101922,Seca y limpia,Plano,Normal
+101923,Humeda,Plano,Lluvia
+101925,Humeda,Plano,Lluvia
+101927,Humeda,Plano,Lluvia
+101928,Seca y limpia,Plano,Normal
+101930,Seca y limpia,Plano,Normal
+101931,Seca y limpia,Ondulado,Normal
+101933,Seca y limpia,Ondulado,Normal
+101935,Seca y limpia,Plano,Normal
+101937,Humeda,Plano,Lluvia
+101940,Humeda,Plano,Lluvia
+101941,Seca y limpia,Ondulado,Normal
+101943,Seca y limpia,Plano,Normal
+101945,Seca y limpia,Plano,Normal
+101947,Seca y limpia,Plano,Normal
+101948,Seca y limpia,Plano,Normal
+101951,Seca y limpia,Plano,Normal
+101952,Seca y limpia,Plano,Normal
+101954,Seca y limpia,Plano,Normal
+101956,Seca y limpia,Plano,Normal
+106101,Humeda,Plano,Lluvia
+101958,Seca y limpia,Plano,Normal
+101961,Seca y limpia,Plano,Normal
+101964,Seca y limpia,Plano,Normal
+101967,Seca y limpia,Plano,Normal
+101969,Seca y limpia,Plano,Normal
+101970,Humeda,Plano,Lluvia
+101971,Seca y limpia,Plano,Normal
+101972,Seca y limpia,Plano,Normal
+101974,Humeda,Plano,Lluvia
+103290,Seca y limpia,Montañoso,Normal
+106100,Seca y limpia,Plano,Normal
+103291,Humeda,Plano,Lluvia
+103292,Humeda,Plano,Lluvia
+103293,Humeda,Plano,Lluvia
+103294,Seca y limpia,Plano,Normal
+103295,Seca y limpia,Plano,Normal
+106095,Seca y limpia,Ondulado,Normal
+106096,Seca y limpia,Ondulado,Normal
+106097,Seca y limpia,Ondulado,Normal
+106098,Seca y limpia,Ondulado,Normal
+106099,Seca y limpia,Plano,Normal
+106102,Seca y limpia,Ondulado,Normal
+106103,Seca y limpia,Plano,Normal
+106104,Seca y limpia,Plano,Normal
+106110,Seca y limpia,Plano,Normal
+106495,Seca y limpia,Plano,Normal
+107701,Humeda,Montañoso,Lluvia
+108895,Seca y limpia,Montañoso,Seca
+108896,Humeda,Montañoso,Lluvia
+108897,Seca y limpia,Montañoso,Seca
+112100,Humeda,Montañoso,Lluvia
+112101,Humeda,Ondulado,Lluvia
+112102,Seca y limpia,Ondulado,Normal
+112103,Seca y limpia,Ondulado,Normal
+112104,Seca y limpia,Ondulado,Normal
+112105,Humeda,Ondulado,Lluvia
+112106,Humeda,Ondulado,Lluvia
+112107,Seca y limpia,Ondulado,Normal
+112108,Seca y limpia,Plano,Normal
+112109,Seca y limpia,Ondulado,Normal
+112110,Seca y limpia,Plano,Normal
+112111,Seca y limpia,Plano,Normal
+112112,Humeda,Ondulado,Lluvia
+112113,Seca y limpia,Ondulado,Normal
+112114,Humeda,Ondulado,Lluvia
+112115,Seca y limpia,Plano,Normal
+112116,Seca y limpia,Ondulado,Normal
+116112,Seca y limpia,Ondulado,Normal
+116500,Seca y limpia,Ondulado,Normal
+116501,Humeda,Plano,Lluvia
+116503,Seca y limpia,Plano,Normal
+116505,Seca y limpia,Ondulado,Normal
+116506,Seca y limpia,Ondulado,Normal
+116508,Humeda,Plano,Lluvia
+116509,Humeda,Ondulado,Lluvia
+116511,Humeda,Ondulado,Lluvia
+120932,Humeda,Plano,Lluvia
+120933,Humeda,Plano,Lluvia
+120934,Humeda,Plano,Lluvia
+120935,Seca y limpia,Plano,Normal
+120936,Seca y limpia,Plano,Normal
+120937,Seca y limpia,Plano,Normal
+120938,Seca y limpia,Plano,Normal
+121308,Humeda,Ondulado,Lluvia
+122115,Humeda,Plano,Lluvia
+122116,Seca y limpia,Plano,Niebla
+122117,Seca y limpia,Ondulado,Normal
+122121,Seca y limpia,Plano,Normal
+122124,Seca y limpia,Plano,Normal
+122125,Seca y limpia,Plano,Normal
+122126,Seca y limpia,Plano,Normal
+122521,Seca y limpia,Plano,Normal
+122527,Seca y limpia,Plano,Normal
+122916,Seca y limpia,Plano,Normal
+135323,Seca y limpia,Ondulado,Normal
+135324,Seca y limpia,Ondulado,Normal
+135325,Humeda,Ondulado,Lluvia
+135326,Humeda,Ondulado,Lluvia
+135327,Humeda,Ondulado,Lluvia
+135328,Seca y limpia,Plano,Normal
+136117,Seca y limpia,Ondulado,Normal
+138138,Humeda,Montañoso,Lluvia
+138140,Seca y limpia,Montañoso,Seca
+138536,Seca y limpia,Montañoso,Seca
+139336,Seca y limpia,Ondulado,Normal
+139337,Humeda,Plano,Lluvia
+139338,Humeda,Ondulado,Lluvia
+139339,Humeda,Plano,Lluvia
+139340,Seca y limpia,Plano,Normal
+139747,Seca y limpia,Ondulado,Normal
+139748,Humeda,Ondulado,Lluvia
+139749,Seca y limpia,Plano,Normal
+139750,Seca y limpia,Plano,Normal
+139751,Seca y limpia,Plano,Normal
+139752,Seca y limpia,Plano,Normal
+139753,Seca y limpia,Plano,Normal
+140141,Seca y limpia,Plano,Normal
+140142,Seca y limpia,Plano,Normal
+140143,Humeda,Plano,Lluvia
+140144,Seca y limpia,Plano,Normal
+140145,Seca y limpia,Plano,Normal
+140146,Seca y limpia,Plano,Normal
+140147,Seca y limpia,Plano,Normal
+140948,Seca y limpia,Plano,Normal
+140949,Seca y limpia,Plano,Normal
+140950,Seca y limpia,Plano,Normal
+140951,Seca y limpia,Plano,Normal
+140952,Seca y limpia,Plano,Normal
+141348,Seca y limpia,Plano,Sol
+141349,Seca y limpia,Plano,Normal
+141350,Seca y limpia,Ondulado,Normal
+141351,Seca y limpia,Plano,Normal
+142551,Seca y limpia,Ondulado,Normal
+142552,Humeda,Ondulado,Lluvia
+142553,Seca y limpia,Plano,Normal
+142554,Humeda,Montañoso,Lluvia
+142555,Seca y limpia,Plano,Normal
+142556,Seca y limpia,Ondulado,Seca
+142557,Seca y limpia,Montañoso,Normal
+142558,Seca y limpia,Plano,Normal
+142559,Seca y limpia,Plano,Normal
+142948,Seca y limpia,Plano,Normal
+142949,Seca y limpia,Montañoso,Normal
+142950,Seca y limpia,Plano,Normal
+142951,Seca y limpia,Ondulado,Normal
+142952,Humeda,Ondulado,Lluvia
+142953,Seca y limpia,Montañoso,Normal
+142954,Humeda,Ondulado,Lluvia
+142955,Seca y limpia,Montañoso,Normal
+142956,Seca y limpia,Montañoso,Normal
+143348,Seca y limpia,Ondulado,Normal
+143349,Aceite,Escarpado,Normal
+143350,Aceite,Escarpado,Normal
+143351,Seca y limpia,Ondulado,Normal
+143748,Seca y limpia,Montañoso,Normal
+143749,Seca y limpia,Ondulado,Niebla
+144548,Seca y limpia,Plano,Normal
+144549,Seca y limpia,Plano,Normal
+147749,Seca y limpia,Montañoso,Normal
+147750,Seca y limpia,Montañoso,Normal
+148149,Seca y limpia,Montañoso,Normal
+148150,Aceite,Escarpado,Lluvia
+148151,Seca y limpia,Escarpado,Normal
+148152,Seca y limpia,Escarpado,Normal
+148153,Seca y limpia,Plano,Normal
+148154,Seca y limpia,Ondulado,Normal
+148155,Seca y limpia,Montañoso,Normal
+148156,Seca y limpia,Ondulado,Normal
+148157,Seca y limpia,Ondulado,Normal
+148158,Seca y limpia,Montañoso,Normal
+148159,Seca y limpia,Plano,Normal
+148160,Seca y limpia,Plano,Normal
+148161,Humeda,Escarpado,Lluvia
+148162,Seca y limpia,Ondulado,Normal
+150149,Humeda,Ondulado,Lluvia
+150150,Seca y limpia,Plano,Normal
+150151,Seca y limpia,Plano,Normal
+150152,Seca y limpia,Montañoso,Normal
+150153,Humeda,Plano,Lluvia
+150154,Seca y limpia,Montañoso,Normal
+150155,Humeda,Plano,Lluvia
+151349,Seca y limpia,Plano,Normal
+151350,Seca y limpia,Plano,Normal
+151351,Seca y limpia,Plano,Normal
+151352,Seca y limpia,Plano,Normal
+151353,Seca y limpia,Ondulado,Normal
+151354,Seca y limpia,Ondulado,Normal
+151355,Seca y limpia,Plano,Normal
+151356,Seca y limpia,Plano,Normal
+151357,Seca y limpia,Plano,Normal
+151358,Seca y limpia,Plano,Niebla
+151359,Seca y limpia,Ondulado,Normal
+154951,Seca y limpia,Ondulado,Normal
+154952,Seca y limpia,Ondulado,Normal
+154953,Seca y limpia,Plano,Normal
+154954,Seca y limpia,Plano,Normal
+154955,Seca y limpia,Plano,Normal
+154956,Humeda,Montañoso,Lluvia
+154957,Seca y limpia,Ondulado,Normal
+154958,Seca y limpia,Escarpado,Normal
+154959,Seca y limpia,Montañoso,Normal
+154961,Seca y limpia,Ondulado,Normal
+158549,Seca y limpia,Montañoso,Seca
+158550,Seca y limpia,Ondulado,Normal
+158551,Humeda,Ondulado,Lluvia
+158552,Seca y limpia,Ondulado,Seca
+159355,Seca y limpia,Montañoso,Seca
+160154,Seca y limpia,Ondulado,Normal
+160155,Seca y limpia,Plano,Normal
+160549,Seca y limpia,Plano,Normal
+160550,Seca y limpia,Plano,Normal
+160986,Seca y limpia,Plano,Normal
+160989,Humeda,Plano,Lluvia
+160993,Seca y limpia,Plano,Normal
+160995,Seca y limpia,Plano,Normal
+160997,Humeda,Plano,Lluvia
+160999,Seca y limpia,Plano,Normal
+161000,Seca y limpia,Ondulado,Normal
+161001,Seca y limpia,Ondulado,Normal
+166950,Humeda,Plano,Lluvia
+166951,Humeda,Plano,Lluvia
+166952,Seca y limpia,Plano,Normal
+166953,Seca y limpia,Montañoso,Normal
+166954,Seca y limpia,Ondulado,Normal
+166956,Humeda,Plano,Lluvia
+166957,Humeda,Ondulado,Lluvia
+166958,Seca y limpia,Plano,Normal
+171350,Seca y limpia,Montañoso,Normal
+171351,Seca y limpia,Ondulado,Normal
+171352,Seca y limpia,Escarpado,Normal
+171353,Seca y limpia,Plano,Normal
+171354,Seca y limpia,Ondulado,Normal
+171355,Seca y limpia,Ondulado,Normal
+171356,Humeda,Ondulado,Lluvia
+171750,Humeda,Montañoso,Lluvia
+171752,Humeda,Ondulado,Lluvia
+171753,Seca y limpia,Ondulado,Normal
+171755,Seca y limpia,Plano,Normal
+171757,Seca y limpia,Montañoso,Normal
+171758,Humeda,Ondulado,Lluvia
+171759,Seca y limpia,Escarpado,Normal
+171773,Seca y limpia,Plano,Normal
+172202,Seca y limpia,Montañoso,Seca
+172204,Seca y limpia,Montañoso,Seca
+172215,Humeda,Plano,Lluvia
+172217,Humeda,Plano,Lluvia
+172218,Seca y limpia,Ondulado,Normal
+172219,Seca y limpia,Plano,Normal
+172562,Humeda,Plano,Lluvia
+172564,Seca y limpia,Ondulado,Normal
+172961,Seca y limpia,Plano,Normal
+172962,Humeda,Plano,Lluvia
+172963,Seca y limpia,Ondulado,Normal
+176973,Seca y limpia,Escarpado,Normal
+176968,Seca y limpia,Ondulado,Normal
+176969,Seca y limpia,Escarpado,Normal
+176970,Seca y limpia,Plano,Normal
+176971,Humeda,Montañoso,Lluvia
+176972,Humeda,Montañoso,Lluvia
+176974,Humeda,Ondulado,Lluvia
+176975,Humeda,Plano,Lluvia
+176976,Humeda,Plano,Lluvia
+176977,Humeda,Ondulado,Lluvia
+176978,Humeda,Ondulado,Lluvia
+176979,Humeda,Ondulado,Lluvia
+176980,Seca y limpia,Montañoso,Normal
+177360,Seca y limpia,Plano,Normal
+177361,Humeda,Plano,Lluvia
+177362,Seca y limpia,Ondulado,Normal
+177364,Seca y limpia,Plano,Normal
+177366,Humeda,Plano,Lluvia
+177367,Seca y limpia,Ondulado,Normal
+177385,Seca y limpia,Ondulado,Normal
+177386,Seca y limpia,Ondulado,Normal
+177387,Seca y limpia,Plano,Normal
+179364,Humeda,Montañoso,Seca
+179365,Seca y limpia,Ondulado,Seca
+179366,Seca y limpia,Montañoso,Seca
+179367,Seca y limpia,Montañoso,Seca
+179781,Humeda,Plano,Lluvia
+179782,Seca y limpia,Plano,Niebla
+179783,Seca y limpia,Montañoso,Normal
+179784,Seca y limpia,Plano,Normal
+181760,Seca y limpia,Montañoso,Seca
+185361,Seca y limpia,Plano,Normal
+185761,Seca y limpia,Plano,Seca
+185762,Humeda,Plano,Lluvia
+185763,Seca y limpia,Ondulado,Normal
+185764,Seca y limpia,Montañoso,Normal
+185765,Seca y limpia,Ondulado,Normal
+185766,Humeda,Montañoso,Lluvia
+185767,Humeda,Plano,Lluvia
+186563,Seca y limpia,Plano,Normal
+186564,Seca y limpia,Plano,Normal
+186565,Seca y limpia,Plano,Normal
+186566,Seca y limpia,Plano,Normal
+187361,Seca y limpia,Plano,Normal
+187782,Humeda,Montañoso,Lluvia
+187783,Humeda,Montañoso,Normal
+187784,Seca y limpia,Montañoso,Normal
+188962,Seca y limpia,Montañoso,Seca
+188963,Seca y limpia,Montañoso,Seca
+188964,Seca y limpia,Montañoso,Normal
+192167,Humeda,Ondulado,Lluvia
+192168,Seca y limpia,Plano,Normal
+192169,Seca y limpia,Plano,Normal
+192170,Humeda,Plano,Lluvia
+192171,Seca y limpia,Plano,Normal
+192172,Seca y limpia,Plano,Normal
+192173,Seca y limpia,Plano,Normal
+192174,Seca y limpia,Ondulado,Normal
+192175,Seca y limpia,Plano,Normal
+192176,Seca y limpia,Plano,Normal
+192177,Seca y limpia,Plano,Normal
+192961,Seca y limpia,Ondulado,Normal
+192962,Seca y limpia,Plano,Normal
+192966,Humeda,Montañoso,Lluvia
+192967,Seca y limpia,Montañoso,Normal
+192968,Seca y limpia,Ondulado,Normal
+192969,Seca y limpia,Ondulado,Normal
+192970,Seca y limpia,Ondulado,Normal
+192971,Humeda,Montañoso,Lluvia
+192972,Seca y limpia,Montañoso,Normal
+192973,Seca y limpia,Ondulado,Normal
+192974,Seca y limpia,Montañoso,Normal
+193362,Seca y limpia,Plano,Normal
+193363,Humeda,Plano,Normal
+193364,Seca y limpia,Plano,Normal
+193365,Seca y limpia,Plano,Normal
+193366,Seca y limpia,Plano,Normal
+193367,Humeda,Ondulado,Normal
+193369,Seca y limpia,Plano,Normal
+193370,Seca y limpia,Ondulado,Normal
+193375,Seca y limpia,Plano,Normal
+193377,Seca y limpia,Plano,Normal
+193762,Seca y limpia,Ondulado,Normal
+193763,Seca y limpia,Plano,Normal
+193764,Humeda,Ondulado,Lluvia
+193765,Humeda,Plano,Lluvia
+193766,Humeda,Ondulado,Lluvia
+194961,Seca y limpia,Montañoso,Normal
+194962,Seca y limpia,Montañoso,Normal
+195761,Seca y limpia,Montañoso,Normal
+195762,Seca y limpia,Plano,Normal
+199361,Seca y limpia,Montañoso,Seca
+199362,Seca y limpia,Plano,Seca
+200563,Humeda,Plano,Lluvia
+200567,Seca y limpia,Ondulado,Normal
+200962,Seca y limpia,Plano,Normal
+200963,Seca y limpia,Plano,Normal
+200964,Seca y limpia,Plano,Normal
+200967,Seca y limpia,Plano,Normal
+201361,Humeda,Ondulado,Lluvia
+201362,Humeda,Montañoso,Lluvia
+201363,Seca y limpia,Montañoso,Normal
+201364,Seca y limpia,Montañoso,Normal
+201365,Seca y limpia,Montañoso,Normal
+201367,Seca y limpia,Montañoso,Normal
+201368,Seca y limpia,Montañoso,Normal
+201369,Seca y limpia,Montañoso,Normal
+201370,Humeda,Montañoso,Lluvia
+201371,Seca y limpia,Montañoso,Normal
+201372,Humeda,Montañoso,Lluvia
+201373,Humeda,Montañoso,Lluvia
+201374,Seca y limpia,Montañoso,Normal
+201375,Seca y limpia,Montañoso,Normal
+201376,Seca y limpia,Montañoso,Normal
+201377,Seca y limpia,Montañoso,Normal
+201378,Humeda,Montañoso,Lluvia
+201379,Seca y limpia,Montañoso,Normal
+201380,Humeda,Montañoso,Lluvia
+201381,Seca y limpia,Montañoso,Normal
+201382,Seca y limpia,Montañoso,Normal
+210570,Humeda,Montañoso,Lluvia
+212569,Seca y limpia,Plano,Seca
+214175,Seca y limpia,Montañoso,Normal
+214172,Humeda,Montañoso,Lluvia
+214174,Seca y limpia,Ondulado,Normal
+214202,Seca y limpia,Plano,Normal
+214569,Seca y limpia,Ondulado,Seca
+214571,Humeda,Montañoso,Lluvia
+214573,Humeda,Montañoso,Lluvia
+214574,Humeda,Plano,Lluvia
+214575,Humeda,Ondulado,Lluvia
+214576,Seca y limpia,Ondulado,Normal
+214581,Seca y limpia,Ondulado,Niebla
+214582,Humeda,Ondulado,Lluvia
+214584,Seca y limpia,Plano,Normal
+214585,Seca y limpia,Plano,Normal
+214587,Seca y limpia,Ondulado,Normal
+214589,Seca y limpia,Plano,Normal
+214591,Seca y limpia,Plano,Normal
+214593,Seca y limpia,Plano,Normal
+214596,Seca y limpia,Plano,Seca
+214597,Seca y limpia,Plano,Normal
+217779,Seca y limpia,Plano,Seca
+217780,Seca y limpia,Plano,Normal
+230607,Seca y limpia,Plano,Seca
+230604,Seca y limpia,Escarpado,Seca
+230605,Seca y limpia,Plano,Seca
+230610,Seca y limpia,Plano,Normal
+230612,Seca y limpia,Montañoso,Normal
+230613,Humeda,Ondulado,Lluvia
+230614,Humeda,Ondulado,Lluvia
+230615,Seca y limpia,Plano,Normal
+230616,Seca y limpia,Plano,Normal
+230617,Humeda,Montañoso,Lluvia
+230618,Humeda,Ondulado,Lluvia
+230619,Humeda,Plano,Niebla
+230622,Humeda,Escarpado,Lluvia
+230625,Seca y limpia,Plano,Normal
+230627,Seca y limpia,Plano,Normal
+241854,Seca y limpia,Plano,Seca
+241855,Humeda,Montañoso,Lluvia
+241856,Seca y limpia,Plano,Seca
+241857,Seca y limpia,Plano,Normal
+241858,Seca y limpia,Plano,Normal
+241859,Seca y limpia,Plano,Normal
+242254,Humeda,Montañoso,Lluvia
+242255,Seca y limpia,Escarpado,Seca
+242256,Seca y limpia,Plano,Normal
+247054,Seca y limpia,Montañoso,Normal
+247055,Humeda,Plano,Lluvia
+257467,Humeda,Ondulado,Lluvia
+257468,Seca y limpia,Ondulado,Normal
+257469,Humeda,Plano,Lluvia
+257470,Seca y limpia,Plano,Seca
+257471,Seca y limpia,Ondulado,Seca
+257472,Seca y limpia,Ondulado,Seca
+257473,Seca y limpia,Ondulado,Seca
+257474,Seca y limpia,Montañoso,Seca
+259875,Seca y limpia,Montañoso,Seca
+259876,Seca y limpia,Plano,Sol
+259877,Seca y limpia,Montañoso,Normal
+259878,Seca y limpia,Ondulado,Seca
+259879,Seca y limpia,Plano,Seca
+259880,Seca y limpia,Montañoso,Normal
+259881,Seca y limpia,Plano,Seca
+261472,Seca y limpia,Plano,Normal
+261473,Seca y limpia,Plano,Normal
+261474,Seca y limpia,Ondulado,Normal
+261475,Seca y limpia,Plano,Normal
+261476,Seca y limpia,Ondulado,Normal
+261867,Seca y limpia,Ondulado,Normal
+261868,Seca y limpia,Plano,Normal
+261869,Seca y limpia,Ondulado,Normal
+261870,Seca y limpia,Plano,Normal
+263071,Seca y limpia,Ondulado,Normal
+263072,Seca y limpia,Plano,Normal
+263073,Seca y limpia,Plano,Normal
+263074,Seca y limpia,Plano,Normal
+263075,Seca y limpia,Montañoso,Normal
+263076,Seca y limpia,Plano,Normal
+263077,Seca y limpia,Plano,Normal
+263078,Seca y limpia,Ondulado,Normal
+263079,Seca y limpia,Montañoso,Normal
+263080,Seca y limpia,Plano,Normal
+263081,Humeda,Plano,Lluvia
+263082,Seca y limpia,Plano,Normal
+263083,Seca y limpia,Plano,Normal
+263467,Seca y limpia,Plano,Normal
+263468,Seca y limpia,Ondulado,Seca
+263469,Seca y limpia,Ondulado,Normal
+267867,Humeda,Plano,Normal
+269090,Seca y limpia,Plano,Seca
+269093,Seca y limpia,Plano,Sol
+269094,Seca y limpia,Montañoso,Sol
+269095,Seca y limpia,Plano,Normal
+269096,Seca y limpia,Ondulado,Seca
+269097,Seca y limpia,Ondulado,Seca
+271887,Seca y limpia,Ondulado,Normal
+271888,Seca y limpia,Montañoso,Normal
+271889,Seca y limpia,Ondulado,Normal
+271890,Seca y limpia,Montañoso,Normal
+271891,Seca y limpia,Plano,Normal
+271892,Seca y limpia,Plano,Normal
+271893,Seca y limpia,Ondulado,Normal
+271894,Seca y limpia,Montañoso,Normal
+271895,Seca y limpia,Plano,Normal
+271896,Seca y limpia,Montañoso,Normal
+271897,Seca y limpia,Plano,Normal
+271898,Humeda,Ondulado,Normal
+271899,Humeda,Ondulado,Lluvia
+271900,Seca y limpia,Plano,Normal
+271901,Seca y limpia,Ondulado,Normal
+271902,Humeda,Ondulado,Normal
+271903,Seca y limpia,Plano,Normal
+271904,Seca y limpia,Plano,Normal
+272269,Seca y limpia,Ondulado,Normal
+272270,Seca y limpia,Plano,Normal
+272272,Seca y limpia,Montañoso,Normal
+272273,Seca y limpia,Plano,Normal
+272276,Seca y limpia,Montañoso,Normal
+272278,Seca y limpia,Plano,Normal
+272280,Humeda,Ondulado,Lluvia
+272284,Humeda,Plano,Lluvia
+272669,Seca y limpia,Ondulado,Normal
+272671,Seca y limpia,Ondulado,Normal
+272674,Humeda,Ondulado,Lluvia
+281868,Seca y limpia,Plano,Seca
+282280,Seca y limpia,Plano,Sol
+282667,Seca y limpia,Plano,Normal
+282668,Seca y limpia,Montañoso,Sol
+284667,Seca y limpia,Montañoso,Normal
+284668,Seca y limpia,Montañoso,Normal
+284669,Seca y limpia,Ondulado,Normal
+284670,Seca y limpia,Montañoso,Normal
+284671,Seca y limpia,Plano,Normal
+284672,Seca y limpia,Ondulado,Normal
+285487,Seca y limpia,Ondulado,Normal
+285489,Seca y limpia,Ondulado,Normal
+285490,Seca y limpia,Plano,Normal
+285491,Seca y limpia,Plano,Normal
+286277,Seca y limpia,Ondulado,Normal
+286278,Seca y limpia,Ondulado,Normal
+286279,Seca y limpia,Plano,Normal
+286667,Seca y limpia,Plano,Seca
+286668,Seca y limpia,Ondulado,Normal
+286671,Seca y limpia,Ondulado,Normal
+286672,Humeda,Ondulado,Lluvia
+286673,Seca y limpia,Ondulado,Sol
+286674,Seca y limpia,Montañoso,Sol
+287067,Seca y limpia,Plano,Normal
+287068,Seca y limpia,Plano,Normal
+287069,Seca y limpia,Ondulado,Normal
+287070,Seca y limpia,Ondulado,Normal
+289070,Seca y limpia,Plano,Sol
+289071,Seca y limpia,Plano,Seca
+289072,Seca y limpia,Plano,Normal
+295067,Seca y limpia,Ondulado,Sol
+295068,Seca y limpia,Ondulado,Normal
+295069,Seca y limpia,Ondulado,Normal
+296267,Humeda,Montañoso,Lluvia
+296268,Seca y limpia,Ondulado,Seca
+296269,Seca y limpia,Plano,Seca
+296270,Humeda,Plano,Lluvia
+296271,Seca y limpia,Plano,Seca
+296272,Seca y limpia,Plano,Normal
+296273,Humeda,Montañoso,Lluvia
+296274,Seca y limpia,Plano,Normal
+296275,Seca y limpia,Escarpado,Normal
+296276,Seca y limpia,Plano,Normal
+296277,Seca y limpia,Montañoso,Normal
+296278,Humeda,Ondulado,Lluvia
+296279,Seca y limpia,Montañoso,Normal
+299878,Seca y limpia,Montañoso,Normal
+302279,Humeda,Ondulado,Lluvia
+301470,Seca y limpia,Ondulado,Normal
+301471,Humeda,Ondulado,Lluvia
+302278,Seca y limpia,Ondulado,Normal
+305870,Humeda,Plano,Lluvia
+305872,Humeda,Ondulado,Lluvia
+305873,Seca y limpia,Plano,Sol
+305874,Humeda,Plano,Lluvia
+305875,Seca y limpia,Plano,Sol
+305876,Seca y limpia,Plano,Sol
+306267,Seca y limpia,Ondulado,Normal
+306667,Seca y limpia,Ondulado,Normal
+306668,Seca y limpia,Plano,Sol
+306669,Seca y limpia,Montañoso,Sol
+306670,Seca y limpia,Plano,Sol
+306671,Seca y limpia,Plano,Sol
+307067,Seca y limpia,Plano,Sol
+307068,Seca y limpia,Ondulado,Sol
+307069,Seca y limpia,Plano,Sol
+307469,Humeda,Montañoso,Lluvia
+307470,Seca y limpia,Ondulado,Sol
+307471,Seca y limpia,Plano,Normal
+307873,Seca y limpia,Ondulado,Sol
+311073,Seca y limpia,Plano,Normal
+311074,Seca y limpia,Plano,Sol
+311473,Seca y limpia,Ondulado,Normal
+311474,Seca y limpia,Ondulado,Normal
+311475,Humeda,Ondulado,Lluvia
+311476,Humeda,Montañoso,Lluvia
+312673,Seca y limpia,Ondulado,Normal
+313877,Humeda,Ondulado,Lluvia
+313880,Seca y limpia,Ondulado,Normal
+313881,Humeda,Montañoso,Lluvia
+313882,Humeda,Plano,Lluvia
+313883,Humeda,Montañoso,Lluvia
+313884,Seca y limpia,Plano,Sol
+313885,Seca y limpia,Plano,Normal
+313886,Humeda,Plano,Lluvia
+313887,Humeda,Plano,Lluvia
+313888,Humeda,Ondulado,Lluvia
+314673,Seca y limpia,Plano,Sol
+314674,Seca y limpia,Ondulado,Sol
+314675,Seca y limpia,Ondulado,Normal
+314676,Humeda,Ondulado,Lluvia
+314677,Seca y limpia,Ondulado,Normal
+315083,Seca y limpia,Ondulado,Normal
+315084,Humeda,Ondulado,Lluvia
+317877,Seca y limpia,Ondulado,Normal
+321073,Humeda,Ondulado,Lluvia
+321074,Humeda,Ondulado,Lluvia
+321075,Seca y limpia,Plano,Normal
+321076,Seca y limpia,Plano,Normal
+321873,Seca y limpia,Montañoso,Normal
+333494,Seca y limpia,Ondulado,Sol
+333495,Seca y limpia,Plano,Normal
+336683,Seca y limpia,Montañoso,Seca
+337084,Seca y limpia,Montañoso,Seca
+337484,Seca y limpia,Montañoso,Seca
+340694,Seca y limpia,Ondulado,Sol
+340695,Seca y limpia,Ondulado,Sol
+340696,Humeda,Ondulado,Lluvia
+340697,Humeda,Ondulado,Lluvia
+340698,Seca y limpia,Plano,Normal
+340701,Seca y limpia,Ondulado,Normal
+341483,Humeda,Escarpado,Lluvia
+341484,Humeda,Plano,Lluvia
+341485,Seca y limpia,Plano,Normal
+341486,Seca y limpia,Montañoso,Normal
+341487,Humeda,Ondulado,Normal
+341488,Seca y limpia,Ondulado,Normal
+343485,Seca y limpia,Plano,Normal
+352297,Seca y limpia,Ondulado,Normal
+352706,Seca y limpia,Ondulado,Normal
+352707,Seca y limpia,Ondulado,Normal
+353104,Seca y limpia,Escarpado,Normal
+353105,Humeda,Ondulado,Lluvia
+353106,Humeda,Plano,Lluvia
+353107,Seca y limpia,Plano,Normal
+353501,Seca y limpia,Ondulado,Normal
+353502,Humeda,Montañoso,Lluvia
+353504,Seca y limpia,Montañoso,Normal
+353505,Seca y limpia,Ondulado,Normal
+353506,Seca y limpia,Plano,Normal
+353508,Seca y limpia,Ondulado,Normal
+353892,Seca y limpia,Plano,Normal
+353894,Seca y limpia,Plano,Normal
+355092,Seca y limpia,Montañoso,Normal
+355093,Seca y limpia,Montañoso,Sol
+355094,Seca y limpia,Ondulado,Normal
+355095,Humeda,Ondulado,Normal
+355096,Seca y limpia,Plano,Normal
+355492,Seca y limpia,Ondulado,Normal
+363492,Seca y limpia,Plano,Normal
+373492,Seca y limpia,Plano,Normal
+379111,Seca y limpia,Plano,Seca
+379112,Seca y limpia,Montañoso,Seca
+379115,Seca y limpia,Montañoso,Seca
+379517,Humeda,Montañoso,Lluvia
+381492,Seca y limpia,Plano,Normal
+381493,Seca y limpia,Ondulado,Normal
+381494,Seca y limpia,Ondulado,Normal
+381495,Seca y limpia,Montañoso,Normal
+381506,Seca y limpia,Montañoso,Normal
+381892,Seca y limpia,Montañoso,Normal
+381893,Seca y limpia,Ondulado,Normal
+382292,Seca y limpia,Ondulado,Normal
+382714,Material suelto,Montañoso,Lluvia
+384294,Seca y limpia,Montañoso,Normal
+384295,Seca y limpia,Plano,Normal
+384296,Humeda,Plano,Niebla
+384302,Seca y limpia,Plano,Normal
+384694,Seca y limpia,Plano,Seca
+384695,Humeda,Ondulado,Lluvia
+384696,Humeda,Ondulado,Lluvia
+384697,Humeda,Plano,Lluvia
+384698,Seca y limpia,Ondulado,Normal
+384706,Seca y limpia,Plano,Sol
+384707,Seca y limpia,Plano,Normal
+384708,Seca y limpia,Plano,Normal
+386692,Seca y limpia,Montañoso,Normal
+391092,Seca y limpia,Plano,Normal
+391093,Humeda,Montañoso,Lluvia
+391094,Seca y limpia,Montañoso,Normal
+391095,Seca y limpia,Ondulado,Normal
+391096,Seca y limpia,Ondulado,Normal
+391097,Humeda,Ondulado,Lluvia
+391098,Seca y limpia,Ondulado,Normal
+391492,Humeda,Ondulado,Lluvia
+391493,Seca y limpia,Ondulado,Normal
+391494,Seca y limpia,Ondulado,Normal
+391495,Humeda,Ondulado,Lluvia
+391496,Seca y limpia,Plano,Normal
+391497,Humeda,Ondulado,Lluvia
+391498,Seca y limpia,Ondulado,Normal
+402712,Humeda,Montañoso,Lluvia
+402713,Seca y limpia,Montañoso,Normal
+402714,Humeda,Plano,Lluvia
+402715,Seca y limpia,Plano,Normal
+402716,Seca y limpia,Montañoso,Normal
+402717,Seca y limpia,Plano,Normal
+402718,Humeda,Montañoso,Lluvia
+403098,Humeda,Plano,Lluvia
+403099,Seca y limpia,Plano,Normal
+403100,Seca y limpia,Ondulado,Normal
+403101,Humeda,Ondulado,Lluvia
+403102,Seca y limpia,Escarpado,Niebla
+403103,Seca y limpia,Ondulado,Normal
+403104,Seca y limpia,Plano,Normal
+403105,Seca y limpia,Plano,Normal
+403106,Seca y limpia,Plano,Normal
+404292,Seca y limpia,Ondulado,Seca
+406305,Seca y limpia,Montañoso,Sol
+406309,Seca y limpia,Ondulado,Sol
+409113,Humeda,Montañoso,Lluvia
+409114,Seca y limpia,Montañoso,Normal
+409115,Seca y limpia,Montañoso,Normal
+409117,Seca y limpia,Plano,Normal
+409119,Seca y limpia,Ondulado,Normal
+409120,Seca y limpia,Ondulado,Normal
+409122,Seca y limpia,Ondulado,Normal
+409525,Seca y limpia,Plano,Normal
+409516,Seca y limpia,Ondulado,Normal
+409517,Seca y limpia,Plano,Normal
+409518,Seca y limpia,Ondulado,Normal
+409519,Seca y limpia,Ondulado,Normal
+409522,Humeda,Montañoso,Lluvia
+409526,Seca y limpia,Ondulado,Normal
+411899,Seca y limpia,Ondulado,Normal
+411896,Seca y limpia,Ondulado,Normal
+411897,Seca y limpia,Plano,Normal
+411900,Humeda,Plano,Lluvia
+411901,Humeda,Ondulado,Lluvia
+412295,Seca y limpia,Plano,Normal
+412296,Humeda,Ondulado,Lluvia
+412297,Seca y limpia,Plano,Normal
+412298,Seca y limpia,Plano,Normal
+412300,Seca y limpia,Ondulado,Normal
+412301,Seca y limpia,Plano,Normal
+412302,Humeda,Plano,Lluvia
+412304,Humeda,Ondulado,Lluvia
+421500,Seca y limpia,Montañoso,Sol
+424707,Seca y limpia,Plano,Normal
+425112,Seca y limpia,Plano,Normal
+425492,Humeda,Ondulado,Lluvia
+427492,Seca y limpia,Ondulado,Niebla
+427493,Seca y limpia,Ondulado,Normal
+427494,Seca y limpia,Montañoso,Normal
+427495,Seca y limpia,Ondulado,Normal
+427497,Seca y limpia,Montañoso,Normal
+427500,Seca y limpia,Plano,Normal
+427892,Humeda,Montañoso,Lluvia
+427893,Seca y limpia,Ondulado,Normal
+427894,Seca y limpia,Plano,Normal
+427896,Seca y limpia,Ondulado,Normal
+429892,Seca y limpia,Plano,Sol
+430694,Seca y limpia,Montañoso,Normal
+430695,Seca y limpia,Plano,Normal
+430696,Humeda,Ondulado,Lluvia
+430697,Seca y limpia,Plano,Normal
+430698,Seca y limpia,Plano,Normal
+431093,Seca y limpia,Plano,Normal
+431094,Seca y limpia,Ondulado,Normal
+431095,Humeda,Plano,Lluvia
+431096,Seca y limpia,Montañoso,Sol
+431097,Seca y limpia,Plano,Normal
+440294,Seca y limpia,Ondulado,Normal
+440296,Seca y limpia,Plano,Normal
+440297,Seca y limpia,Plano,Normal
+440302,Seca y limpia,Ondulado,Normal
+442301,Seca y limpia,Plano,Sol
+440305,Seca y limpia,Montañoso,Normal
+440307,Humeda,Ondulado,Lluvia
+440695,Seca y limpia,Ondulado,Normal
+440697,Seca y limpia,Montañoso,Normal
+440698,Seca y limpia,Ondulado,Normal
+440699,Humeda,Montañoso,Lluvia
+440700,Seca y limpia,Montañoso,Normal
+440701,Humeda,Montañoso,Lluvia
+440702,Seca y limpia,Plano,Normal
+440703,Seca y limpia,Montañoso,Normal
+440705,Seca y limpia,Ondulado,Normal
+440706,Seca y limpia,Ondulado,Normal
+440707,Humeda,Montañoso,Lluvia
+441099,Otra,Ondulado,Normal
+441101,Seca y limpia,Plano,Normal
+441103,Seca y limpia,Plano,Normal
+441105,Otra,Ondulado,Normal
+442700,Seca y limpia,Plano,Normal
+443492,Otra,Montañoso,Normal
+446303,Seca y limpia,Montañoso,Sol
+446697,Seca y limpia,Montañoso,Sol
+447095,Humeda,Ondulado,Lluvia
+447096,Humeda,Plano,Lluvia
+447097,Seca y limpia,Ondulado,Normal
+447493,Helada,Plano,Normal
+447895,Seca y limpia,Montañoso,Normal
+447896,Seca y limpia,Plano,Normal
+447897,Humeda,Ondulado,Lluvia
+447898,Humeda,Ondulado,Lluvia
+447899,Seca y limpia,Ondulado,Normal
+447901,Seca y limpia,Ondulado,Normal
+447902,Seca y limpia,Ondulado,Normal
+448292,Seca y limpia,Ondulado,Normal
+448296,Seca y limpia,Montañoso,Normal
+448297,Seca y limpia,Plano,Normal
+448301,Seca y limpia,Plano,Normal
+448302,Humeda,Plano,Lluvia
+448303,Humeda,Montañoso,Lluvia
+448304,Humeda,Montañoso,Lluvia
+448306,Seca y limpia,Ondulado,Normal
+457096,Seca y limpia,Montañoso,Normal
+457098,Seca y limpia,Montañoso,Normal
+457494,Seca y limpia,Montañoso,Sol
+457495,Seca y limpia,Montañoso,Sol
+457498,Seca y limpia,Plano,Sol
+457501,Seca y limpia,Montañoso,Sol
+458314,Seca y limpia,Ondulado,Sol
+458707,Seca y limpia,Montañoso,Normal
+458708,Seca y limpia,Plano,Normal
+458709,Seca y limpia,Ondulado,Normal
+458710,Seca y limpia,Ondulado,Normal
+459112,Seca y limpia,Ondulado,Normal
+459113,Seca y limpia,Ondulado,Normal
+459114,Seca y limpia,Montañoso,Normal
+459115,Humeda,Montañoso,Lluvia
+459494,Seca y limpia,Plano,Normal
+459495,Seca y limpia,Ondulado,Normal
+459496,Seca y limpia,Ondulado,Normal
+459894,Seca y limpia,Montañoso,Normal
+459895,Seca y limpia,Ondulado,Normal
+459896,Seca y limpia,Ondulado,Normal
+462704,Humeda,Ondulado,Lluvia
+462705,Seca y limpia,Ondulado,Normal
+462706,Seca y limpia,Montañoso,Seca
+462707,Seca y limpia,Plano,Seca
+462708,Seca y limpia,Plano,Seca
+462709,Seca y limpia,Plano,Seca
+462710,Seca y limpia,Plano,Normal
+462716,Seca y limpia,Plano,Normal
+462718,Seca y limpia,Plano,Sol
+462719,Seca y limpia,Plano,Normal
+462720,Seca y limpia,Montañoso,Normal
+463101,Humeda,Plano,Lluvia
+463102,Humeda,Ondulado,Lluvia
+463103,Humeda,Ondulado,Lluvia
+463104,Seca y limpia,Plano,Seca
+463105,Humeda,Plano,Lluvia
+463106,Humeda,Montañoso,Lluvia
+463107,Seca y limpia,Montañoso,Seca
+463108,Seca y limpia,Plano,Seca
+463109,Seca y limpia,Plano,Seca
+463110,Seca y limpia,Montañoso,Normal
+463111,Seca y limpia,Ondulado,Normal
+463113,Seca y limpia,Ondulado,Normal
+463494,Seca y limpia,Plano,Seca
+465503,Seca y limpia,Plano,Normal
+469094,Seca y limpia,Montañoso,Sol
+469097,Seca y limpia,Montañoso,Normal
+469098,Seca y limpia,Montañoso,Normal
+469100,Seca y limpia,Montañoso,Sol
+469101,Seca y limpia,Montañoso,Sol
+469103,Seca y limpia,Montañoso,Sol
+469104,Seca y limpia,Ondulado,Sol
+469494,Seca y limpia,Ondulado,Sol
+470694,Seca y limpia,Plano,Normal
+470695,Seca y limpia,Montañoso,Normal
+470696,Seca y limpia,Plano,Normal
+470697,Humeda,Plano,Lluvia
+470698,Seca y limpia,Plano,Normal
+470699,Seca y limpia,Montañoso,Normal
+470700,Seca y limpia,Ondulado,Lluvia
+470701,Seca y limpia,Plano,Sol
+470702,Seca y limpia,Ondulado,Sol
+470703,Humeda,Plano,Lluvia
+470704,Otra,Montañoso,Normal
+470706,Humeda,Ondulado,Lluvia
+470708,Seca y limpia,Ondulado,Normal
+470709,Seca y limpia,Montañoso,Normal
+470711,Seca y limpia,Ondulado,Normal
+470712,Humeda,Ondulado,Lluvia
+470714,Seca y limpia,Ondulado,Normal
+470722,Seca y limpia,Ondulado,Normal
+471094,Seca y limpia,Plano,Normal
+471095,Seca y limpia,Escarpado,Normal
+471096,Humeda,Plano,Lluvia
+471097,Seca y limpia,Ondulado,Normal
+471098,Seca y limpia,Montañoso,Normal
+471099,Seca y limpia,Montañoso,Normal
+471100,Seca y limpia,Montañoso,Normal
+471101,Seca y limpia,Ondulado,Sol
+471102,Humeda,Plano,Lluvia
+471103,Seca y limpia,Plano,Normal
+471104,Seca y limpia,Plano,Normal
+471109,Seca y limpia,Ondulado,Normal
+471110,Seca y limpia,Ondulado,Normal
+471112,Seca y limpia,Montañoso,Normal
+471113,Humeda,Plano,Lluvia
+471114,Humeda,Ondulado,Lluvia
+471115,Seca y limpia,Plano,Normal
+471120,Humeda,Montañoso,Lluvia
+471121,Seca y limpia,Ondulado,Normal
+471122,Seca y limpia,Montañoso,Normal
+472351,Seca y limpia,Ondulado,Normal
+472352,Seca y limpia,Ondulado,Normal
+472353,Seca y limpia,Ondulado,Normal
+472354,Seca y limpia,Montañoso,Normal
+472355,Seca y limpia,Plano,Normal
+472356,Seca y limpia,Plano,Normal
+472357,Seca y limpia,Montañoso,Normal
+472358,Seca y limpia,Ondulado,Normal
+472359,Seca y limpia,Montañoso,Normal
+472369,Seca y limpia,Ondulado,Normal
+472370,Humeda,Montañoso,Lluvia
+472372,Seca y limpia,Ondulado,Normal
+472375,Seca y limpia,Ondulado,Normal
+473500,Humeda,Montañoso,Lluvia
+473894,Humeda,Montañoso,Lluvia
+473895,Seca y limpia,Ondulado,Normal
+473896,Seca y limpia,Ondulado,Normal
+473897,Seca y limpia,Montañoso,Normal
+473898,Seca y limpia,Ondulado,Normal
+474294,Humeda,Montañoso,Lluvia
+474295,Seca y limpia,Ondulado,Normal
+474296,Seca y limpia,Ondulado,Normal
+474301,Seca y limpia,Ondulado,Normal
+474302,Seca y limpia,Montañoso,Normal
+474304,Seca y limpia,Ondulado,Normal
+474307,Seca y limpia,Ondulado,Normal
+474308,Humeda,Montañoso,Lluvia
+474695,Humeda,Montañoso,Lluvia
+474697,Seca y limpia,Plano,Normal
+478694,Seca y limpia,Montañoso,Normal
+479094,Humeda,Ondulado,Lluvia
+479097,Seca y limpia,Montañoso,Normal
+479099,Humeda,Montañoso,Lluvia
+479102,Humeda,Montañoso,Lluvia
+479103,Seca y limpia,Ondulado,Normal
+479104,Seca y limpia,Montañoso,Normal
+479494,Humeda,Montañoso,Lluvia
+479495,Humeda,Montañoso,Lluvia
+479496,Humeda,Montañoso,Lluvia
+480294,Seca y limpia,Ondulado,Normal
+480694,Seca y limpia,Plano,Normal
+480695,Seca y limpia,Ondulado,Normal
+480696,Seca y limpia,Ondulado,Normal
+480698,Seca y limpia,Plano,Normal
+481094,Seca y limpia,Ondulado,Normal
+481095,Seca y limpia,Ondulado,Normal
+481096,Seca y limpia,Ondulado,Normal
+481098,Humeda,Plano,Lluvia
+482294,Seca y limpia,Plano,Seca
+482295,Seca y limpia,Plano,Normal
+482296,Humeda,Montañoso,Lluvia
+482297,Seca y limpia,Plano,Normal
+482694,Seca y limpia,Ondulado,Normal
+482695,Humeda,Ondulado,Normal
+482696,Seca y limpia,Plano,Normal
+483096,Seca y limpia,Escarpado,Normal
+483099,Seca y limpia,Plano,Normal
+483100,Seca y limpia,Ondulado,Normal
+483101,Seca y limpia,Plano,Normal
+483494,Humeda,Escarpado,Lluvia
+483496,Seca y limpia,Ondulado,Normal
+483497,Humeda,Ondulado,Lluvia
+483498,Humeda,Ondulado,Lluvia
+494704,Seca y limpia,Plano,Sol
+496703,Humeda,Montañoso,Niebla
+497103,Seca y limpia,Plano,Sol
+497109,Humeda,Ondulado,Lluvia
+497110,Seca y limpia,Montañoso,Normal
+497503,Seca y limpia,Montañoso,Normal
+497506,Seca y limpia,Montañoso,Normal
+497507,Seca y limpia,Montañoso,Normal
+497508,Humeda,Ondulado,Lluvia
+497509,Seca y limpia,Montañoso,Normal
+497510,Seca y limpia,Ondulado,Normal
+497903,Seca y limpia,Ondulado,Normal
+498704,Seca y limpia,Ondulado,Normal
+498705,Seca y limpia,Montañoso,Normal
+498706,Seca y limpia,Ondulado,Normal
+499103,Seca y limpia,Montañoso,Normal
+499503,Seca y limpia,Montañoso,Normal
+499505,Seca y limpia,Ondulado,Normal
+499506,Seca y limpia,Montañoso,Normal
+499507,Seca y limpia,Montañoso,Normal
+499509,Humeda,Ondulado,Lluvia
+499510,Seca y limpia,Ondulado,Normal
+499511,Seca y limpia,Montañoso,Normal
+499512,Seca y limpia,Ondulado,Normal
+499908,Humeda,Ondulado,Lluvia
+499911,Seca y limpia,Montañoso,Normal
+499912,Seca y limpia,Montañoso,Normal
+505103,Seca y limpia,Ondulado,Sol
+509903,Seca y limpia,Montañoso,Normal
+509904,Seca y limpia,Plano,Normal
+515904,Humeda,Montañoso,Normal
+515905,Seca y limpia,Ondulado,Normal
+515906,Humeda,Montañoso,Lluvia
+515907,Seca y limpia,Montañoso,Normal
+515908,Humeda,Montañoso,Lluvia
+515909,Humeda,Montañoso,Lluvia
+515910,Seca y limpia,Montañoso,Normal
+515911,Humeda,Montañoso,Lluvia
+516708,Seca y limpia,Montañoso,Normal
+516709,Humeda,Montañoso,Lluvia
+516710,Seca y limpia,Montañoso,Normal
+516711,Seca y limpia,Ondulado,Normal
+517103,Seca y limpia,Ondulado,Normal
+517104,Seca y limpia,Montañoso,Normal
+517106,Seca y limpia,Plano,Normal
+517109,Seca y limpia,Ondulado,Normal
+517110,Seca y limpia,Plano,Normal
+517111,Seca y limpia,Plano,Normal
+519106,Humeda,Montañoso,Lluvia
+519108,Seca y limpia,Ondulado,Normal
+519503,Humeda,Ondulado,Lluvia
+519504,Humeda,Plano,Lluvia
+519506,Humeda,Ondulado,Lluvia
+519903,Seca y limpia,Ondulado,Sol
+519904,Seca y limpia,Ondulado,Normal
+522303,Seca y limpia,Montañoso,Normal
+523103,Seca y limpia,Ondulado,Normal
+523507,Seca y limpia,Montañoso,Sol
+523905,Seca y limpia,Ondulado,Sol
+523906,Humeda,Ondulado,Lluvia
+523907,Seca y limpia,Montañoso,Sol
+523909,Humeda,Ondulado,Lluvia
+523910,Seca y limpia,Ondulado,Sol
+523911,Seca y limpia,Ondulado,Seca
+524306,Seca y limpia,Montañoso,Normal
+524704,Seca y limpia,Ondulado,Sol
+525103,Material suelto,Montañoso,Sol
+529111,Seca y limpia,Montañoso,Normal
+530304,Seca y limpia,Plano,Normal
+530308,Seca y limpia,Ondulado,Normal
+530310,Otra,Plano,Normal
+530311,Seca y limpia,Montañoso,Sol
+530708,Seca y limpia,Plano,Normal
+533106,Seca y limpia,Plano,Normal
+533903,Seca y limpia,Montañoso,Normal
+534303,Seca y limpia,Ondulado,Sol
+535104,Seca y limpia,Montañoso,Normal
+539103,Seca y limpia,Ondulado,Normal
+539104,Seca y limpia,Plano,Sol
+539105,Humeda,Montañoso,Lluvia
+539106,Humeda,Montañoso,Lluvia
+539107,Seca y limpia,Ondulado,Sol
+539108,Humeda,Montañoso,Lluvia
+539504,Seca y limpia,Ondulado,Seca
+539505,Humeda,Ondulado,Lluvia
+539506,Seca y limpia,Montañoso,Sol
+539507,Humeda,Ondulado,Lluvia
+539508,Seca y limpia,Ondulado,Sol
+539509,Humeda,Ondulado,Lluvia
+539510,Seca y limpia,Plano,Normal
+539511,Seca y limpia,Plano,Normal
+548303,Seca y limpia,Plano,Normal
+549103,Seca y limpia,Plano,Seca
+549104,Seca y limpia,Plano,Seca
+549105,Seca y limpia,Ondulado,Seca
+549106,Seca y limpia,Ondulado,Seca
+549107,Humeda,Ondulado,Lluvia
+549109,Seca y limpia,Ondulado,Seca
+549110,Seca y limpia,Ondulado,Seca
+549111,Seca y limpia,Montañoso,Seca
+549112,Seca y limpia,Montañoso,Seca
+549505,Seca y limpia,Escarpado,Seca
+549507,Seca y limpia,Montañoso,Seca
+549509,Seca y limpia,Montañoso,Seca
+549510,Seca y limpia,Plano,Seca
+554703,Seca y limpia,Ondulado,Normal
+556306,Seca y limpia,Plano,Normal
+557503,Seca y limpia,Ondulado,Seca
+557504,Humeda,Ondulado,Lluvia
+557505,Seca y limpia,Ondulado,Normal
+557506,Seca y limpia,Ondulado,Normal
+557507,Seca y limpia,Montañoso,Seca
+557903,Humeda,Ondulado,Lluvia
+557904,Humeda,Ondulado,Lluvia
+557905,Humeda,Ondulado,Lluvia
+557907,Humeda,Ondulado,Lluvia
+557909,Humeda,Ondulado,Lluvia
+557910,Humeda,Plano,Lluvia
+557913,Seca y limpia,Montañoso,Sol
+557916,Humeda,Montañoso,Lluvia
+558304,Seca y limpia,Ondulado,Sol
+558305,Humeda,Ondulado,Lluvia
+558308,Seca y limpia,Montañoso,Sol
+558309,Seca y limpia,Ondulado,Seca
+558311,Seca y limpia,Plano,Seca
+558313,Humeda,Montañoso,Lluvia
+558315,Seca y limpia,Montañoso,Seca
+565917,Seca y limpia,Montañoso,Normal
+563904,Seca y limpia,Ondulado,Normal
+563905,Seca y limpia,Montañoso,Normal
+565906,Seca y limpia,Ondulado,Seca
+565907,Seca y limpia,Ondulado,Sol
+565908,Seca y limpia,Ondulado,Sol
+565909,Humeda,Ondulado,Lluvia
+565910,Humeda,Montañoso,Lluvia
+565911,Seca y limpia,Escarpado,Normal
+565912,Seca y limpia,Ondulado,Normal
+565913,Seca y limpia,Plano,Sol
+565914,Seca y limpia,Plano,Sol
+565915,Seca y limpia,Ondulado,Normal
+565916,Seca y limpia,Montañoso,Normal

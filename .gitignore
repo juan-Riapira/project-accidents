@@ -1,0 +1,22 @@
+# Ignorar entornos virtuales
+venv/
+env/
+__pycache__/
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
+
+# Archivos de caché de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos de dependencias
+*.egg-info/
+tox/
+nox/
+.coverage
+hypothesis/
+
+
