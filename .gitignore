@@ -11,6 +11,7 @@ __pycache__/
 *.pyc
 *.pyo
 __pycache__/
+*.bad
 
 # Archivos de dependencias
 *.egg-info/
@@ -18,5 +19,3 @@ tox/
 nox/
 .coverage
 hypothesis/
-
-
