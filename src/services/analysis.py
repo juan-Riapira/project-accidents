@@ -1,30 +1,80 @@
-from flask import  Blueprint,jsonify
-import matplotlib.pyplot as plt
+from flask import jsonify
 from src.database.connection_DB import get_db_connection
 import pandas as pd
 
-def accident_frequency():
 
+def accident_frequency(group_by="YEAR"):
+ 
     conn = get_db_connection()
     cursor = conn.cursor()
 
-    query ="SELECT YEAR, COUNT(*) AS numeroAños FROM DATE_ACCIDENT group BY YEAR ORDER BY numeroAños DESC"
+    if group_by not in ["YEAR", "MONTH"]:
+        conn.close()
+        return jsonify({"error": "El parámetro 'group_by' debe ser 'YEAR' o 'MONTH'"}), 400
+    query=""
+    if group_by == "YEAR":
+        query = """
+            SELECT YEAR, COUNT(*) AS numeroAccidentes
+            FROM DATE_ACCIDENT
+            GROUP BY YEAR
+            ORDER BY numeroAccidentes DESC
+        """
+    elif group_by == "MONTH":
+        query = """
+            SELECT YEAR || '-' || TO_CHAR(MONTH, 'FM00') AS periodo, 
+            COUNT(*) AS numeroAccidentes
+            FROM DATE_ACCIDENT
+            GROUP BY YEAR, MONTH
+            ORDER BY YEAR ASC, MONTH ASC
+        """
 
     cursor.execute(query)
     resultados = cursor.fetchall()
 
-    analisis=[]
-
+    analisis = []
     for fila in resultados:
         analisis.append({
-            "year" : fila[0],
-            "numeroAños" : fila[1]
+            "periodo": fila[0],
+            "numeroAccidentes": fila[1]
         })
 
-
     conn.close()
+
     return jsonify(analisis)
     
+def accident_distribution_by_city():
+
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    query = """
+                SELECT 
+                L.geometry, 
+                COUNT(A.id_accident) AS total_accidentes
+            FROM 
+                accident A
+            JOIN 
+                location L ON A.id_location = L.id_location
+            GROUP BY 
+                L.geometry
+            ORDER BY 
+                total_accidentes DESC
+    """
+
+    cursor.execute(query)
+    resultados = cursor.fetchall()
+
+    distribucion = []
+    for fila in resultados:
+        distribucion.append({
+            "ciudad": fila[0],
+            "total_accidentes": fila[1]
+        })
+
+    conn.close()
+
+    return jsonify(distribucion)
+
 def critical_days_hours():
    conn = get_db_connection()
    cursor = conn.cursor()
