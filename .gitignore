@@ -13,9 +13,8 @@ __pycache__/
 __pycache__/
 *.bad
 
-# Archivos de dependencias
-*.egg-info/
-tox/
-nox/
-.coverage
-hypothesis/
+# Ignorar todos los archivos CSV
+*.csv
+
+# Ignorar el paquete "database"
+database/

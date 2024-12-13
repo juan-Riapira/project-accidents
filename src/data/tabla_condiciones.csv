@@ -1,4 +1,4 @@
-id_conditions ,surface_condition,land ,weather_condition 
+id_condition,surface_condition,land,weather_condition
 62328,Humeda,Plano,Lluvia
 62330,Humeda,Ondulado,Lluvia
 62336,Humeda,Ondulado,Lluvia
